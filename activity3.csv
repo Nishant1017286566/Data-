@@ -1,0 +1,1721 @@
+location,activity,date,change,value,source,roll
+Greater London,Retail & recreation,27/02/2020,0,100,Google,99.42857143
+Greater London,Grocery & pharmacy,27/02/2020,-1,99,Google,
+Greater London,Retail & recreation,28/02/2020,-2,98,Google,99.42857143
+Greater London,Grocery & pharmacy,28/02/2020,-1,99,Google,99.42857143
+Greater London,Retail & recreation,29/02/2020,-2,98,Google,98.85714286
+Greater London,Grocery & pharmacy,29/02/2020,0,100,Google,99.14285714
+Greater London,Retail & recreation,01/03/2020,9,109,Google,100.4285714
+Greater London,Grocery & pharmacy,01/03/2020,4,104,Google,101
+Greater London,Retail & recreation,02/03/2020,2,102,Google,101.4285714
+Greater London,Grocery & pharmacy,02/03/2020,6,106,Google,102.5714286
+Greater London,Retail & recreation,03/03/2020,-1,99,Google,102.5714286
+Greater London,Grocery & pharmacy,03/03/2020,2,102,Google,103.1428571
+Greater London,Retail & recreation,04/03/2020,-3,97,Google,102.7142857
+Greater London,Grocery & pharmacy,04/03/2020,1,,Google,101.5714286
+Greater London,Retail & recreation,05/03/2020,-9,91,Google,99.71428571
+Greater London,Grocery & pharmacy,05/03/2020,-5,95,Google,98.71428571
+Greater London,Retail & recreation,06/03/2020,1,101,Google,98
+Greater London,Grocery & pharmacy,06/03/2020,8,108,Google,99.28571429
+Greater London,Retail & recreation,07/03/2020,-2,98,Google,98.71428571
+Greater London,Grocery & pharmacy,07/03/2020,3,103,Google,99.57142857
+Greater London,Retail & recreation,08/03/2020,-1,99,Google,99.28571429
+Greater London,Grocery & pharmacy,08/03/2020,3,103,Google,101
+Greater London,Retail & recreation,09/03/2020,-3,97,Google,101.2857143
+Greater London,Grocery & pharmacy,09/03/2020,6,106,Google,102
+Greater London,Retail & recreation,10/03/2020,-6,94,Google,100
+Greater London,Grocery & pharmacy,10/03/2020,7,107,Google,101.2857143
+Greater London,Retail & recreation,11/03/2020,-6,94,Google,100
+Greater London,Grocery & pharmacy,11/03/2020,8,108,Google,101.2857143
+Greater London,Retail & recreation,12/03/2020,-8,92,Google,99.71428571
+Greater London,Grocery & pharmacy,12/03/2020,14,114,Google,102.1428571
+Greater London,Retail & recreation,13/03/2020,-13,87,Google,99.42857143
+Greater London,Grocery & pharmacy,13/03/2020,15,115,Google,102.4285714
+Greater London,Retail & recreation,14/03/2020,-20,80,Google,98.57142857
+Greater London,Grocery & pharmacy,14/03/2020,9,109,Google,100.7142857
+Greater London,Retail & recreation,15/03/2020,-24,76,Google,96.14285714
+Greater London,Grocery & pharmacy,15/03/2020,6,106,Google,98.14285714
+Greater London,Retail & recreation,16/03/2020,-14,86,Google,94.14285714
+Greater London,Grocery & pharmacy,16/03/2020,23,123,Google,99.28571429
+Greater London,Retail & recreation,17/03/2020,-28,72,Google,93.14285714
+Greater London,Grocery & pharmacy,17/03/2020,19,119,Google,98.71428571
+Greater London,Retail & recreation,18/03/2020,-33,67,Google,92.71428571
+Greater London,Grocery & pharmacy,18/03/2020,28,128,Google,100.1428571
+Greater London,Retail & recreation,19/03/2020,-36,64,Google,94.14285714
+Greater London,Grocery & pharmacy,19/03/2020,30,130,Google,100.4285714
+Greater London,Retail & recreation,20/03/2020,-46,54,Google,90.57142857
+Greater London,Grocery & pharmacy,20/03/2020,8,108,Google,95.71428571
+Greater London,Retail & recreation,21/03/2020,-62,38,Google,84.14285714
+Greater London,Grocery & pharmacy,21/03/2020,-8,92,Google,87.71428571
+Greater London,Retail & recreation,22/03/2020,-67,33,Google,74.14285714
+Greater London,Grocery & pharmacy,22/03/2020,,80,Google,76.42857143
+Greater London,Retail & recreation,23/03/2020,-59,41,Google,63.71428571
+Greater London,Grocery & pharmacy,23/03/2020,-13,87,Google,68.42857143
+Greater London,Retail & recreation,24/03/2020,-76,24,Google,56.42857143
+Greater London,Grocery & pharmacy,24/03/2020,-25,75,Google,61.71428571
+Greater London,Retail & recreation,25/03/2020,-79,21,Google,51.57142857
+Greater London,Grocery & pharmacy,25/03/2020,-28,72,Google,57.14285714
+Greater London,Retail & recreation,26/03/2020,-80,20,Google,48.57142857
+Greater London,Grocery & pharmacy,26/03/2020,-32,68,Google,52.42857143
+Greater London,Retail & recreation,27/03/2020,-81,19,Google,42.71428571
+Greater London,Grocery & pharmacy,27/03/2020,-32,68,Google,49
+Greater London,Retail & recreation,28/03/2020,-85,15,Google,40.42857143
+Greater London,Grocery & pharmacy,28/03/2020,-41,59,Google,45.85714286
+Greater London,Retail & recreation,29/03/2020,-87,13,Google,37.42857143
+Greater London,Grocery & pharmacy,29/03/2020,-48,52,Google,42
+Greater London,Retail & recreation,30/03/2020,-79,21,Google,35.28571429
+Greater London,Grocery & pharmacy,30/03/2020,-36,64,Google,41.71428571
+Greater London,Retail & recreation,31/03/2020,-79,21,Google,35
+Greater London,Grocery & pharmacy,31/03/2020,-35,65,Google,42.14285714
+Greater London,Retail & recreation,01/04/2020,-81,19,Google,36.42857143
+Greater London,Grocery & pharmacy,01/04/2020,-36,64,Google,43.71428571
+Greater London,Retail & recreation,02/04/2020,-81,19,Google,39
+Greater London,Grocery & pharmacy,02/04/2020,-36,64,Google,45.14285714
+Greater London,Retail & recreation,03/04/2020,-81,19,Google,38.71428571
+Greater London,Grocery & pharmacy,03/04/2020,-34,66,Google,45.14285714
+Greater London,Retail & recreation,04/04/2020,-84,16,Google,38.14285714
+Greater London,Grocery & pharmacy,04/04/2020,-38,62,Google,44.28571429
+Greater London,Retail & recreation,05/04/2020,-84,16,Google,37.42857143
+Greater London,Grocery & pharmacy,05/04/2020,-41,59,Google,43.14285714
+Greater London,Retail & recreation,06/04/2020,-78,22,Google,37.14285714
+Greater London,Grocery & pharmacy,06/04/2020,-35,65,Google,43.71428571
+Greater London,Retail & recreation,07/04/2020,-79,21,Google,37.28571429
+Greater London,Grocery & pharmacy,07/04/2020,-33,67,Google,44.57142857
+Greater London,Retail & recreation,08/04/2020,-80,20,Google,38.57142857
+Greater London,Grocery & pharmacy,08/04/2020,-33,67,Google,45.85714286
+Greater London,Retail & recreation,09/04/2020,-78,22,Google,40.57142857
+Greater London,Grocery & pharmacy,09/04/2020,-26,74,Google,48
+Greater London,Retail & recreation,10/04/2020,-83,17,Google,41.14285714
+Greater London,Grocery & pharmacy,10/04/2020,-35,65,Google,47.42857143
+Greater London,Retail & recreation,11/04/2020,-84,16,Google,40.14285714
+Greater London,Grocery & pharmacy,11/04/2020,-36,64,Google,46.42857143
+Greater London,Retail & recreation,12/04/2020,-89,11,Google,38.42857143
+Greater London,Grocery & pharmacy,12/04/2020,-60,40,Google,41
+Greater London,Retail & recreation,13/04/2020,-83,17,Google,32.85714286
+Greater London,Grocery & pharmacy,13/04/2020,-43,57,Google,38.57142857
+Greater London,Retail & recreation,14/04/2020,-78,22,Google,32.42857143
+Greater London,Grocery & pharmacy,14/04/2020,-32,68,Google,39.85714286
+Greater London,Retail & recreation,15/04/2020,-79,21,Google,33.71428571
+Greater London,Grocery & pharmacy,15/04/2020,-32,68,Google,41.85714286
+Greater London,Retail & recreation,16/04/2020,-79,21,Google,39.14285714
+Greater London,Grocery & pharmacy,16/04/2020,-32,68,Google,46.42857143
+Greater London,Retail & recreation,17/04/2020,-81,19,Google,41
+Greater London,Grocery & pharmacy,17/04/2020,-34,66,Google,47.28571429
+Greater London,Retail & recreation,18/04/2020,-84,16,Google,39.85714286
+Greater London,Grocery & pharmacy,18/04/2020,-38,62,Google,45.71428571
+Greater London,Retail & recreation,19/04/2020,-83,17,Google,38.42857143
+Greater London,Grocery & pharmacy,19/04/2020,-42,58,Google,43.71428571
+Greater London,Retail & recreation,20/04/2020,-77,23,Google,37.28571429
+Greater London,Grocery & pharmacy,20/04/2020,-34,66,Google,44
+Greater London,Retail & recreation,21/04/2020,-78,22,Google,37.71428571
+Greater London,Grocery & pharmacy,21/04/2020,-33,67,Google,45
+Greater London,Retail & recreation,22/04/2020,-79,21,Google,39.14285714
+Greater London,Grocery & pharmacy,22/04/2020,-32,68,Google,46.42857143
+Greater London,Retail & recreation,23/04/2020,-78,22,Google,41.28571429
+Greater London,Grocery & pharmacy,23/04/2020,-30,70,Google,48
+Greater London,Retail & recreation,24/04/2020,-79,21,Google,41.57142857
+Greater London,Grocery & pharmacy,24/04/2020,-30,70,Google,48.42857143
+Greater London,Retail & recreation,25/04/2020,-82,18,Google,41.42857143
+Greater London,Grocery & pharmacy,25/04/2020,-35,65,Google,47.71428571
+Greater London,Retail & recreation,26/04/2020,-81,19,Google,40.71428571
+Greater London,Grocery & pharmacy,26/04/2020,-38,62,Google,46.42857143
+Greater London,Retail & recreation,27/04/2020,-76,24,Google,39.85714286
+Greater London,Grocery & pharmacy,27/04/2020,-32,68,Google,46.57142857
+Greater London,Retail & recreation,28/04/2020,-82,18,Google,39.14285714
+Greater London,Grocery & pharmacy,28/04/2020,-42,58,Google,44.85714286
+Greater London,Retail & recreation,29/04/2020,-79,21,Google,38.57142857
+Greater London,Grocery & pharmacy,29/04/2020,-33,67,Google,45.42857143
+Greater London,Retail & recreation,30/04/2020,-81,19,Google,39.28571429
+Greater London,Grocery & pharmacy,30/04/2020,-35,65,Google,45.14285714
+Greater London,Retail & recreation,01/05/2020,-80,20,Google,38.28571429
+Greater London,Grocery & pharmacy,01/05/2020,-30,70,Google,45.71428571
+Greater London,Retail & recreation,02/05/2020,-81,19,Google,40.14285714
+Greater London,Grocery & pharmacy,02/05/2020,-31,69,Google,47
+Greater London,Retail & recreation,03/05/2020,-82,18,Google,40
+Greater London,Grocery & pharmacy,03/05/2020,-40,60,Google,45.85714286
+Greater London,Retail & recreation,04/05/2020,-75,25,Google,40.14285714
+Greater London,Grocery & pharmacy,04/05/2020,-29,71,Google,47.42857143
+Greater London,Retail & recreation,05/05/2020,-77,23,Google,40.71428571
+Greater London,Grocery & pharmacy,05/05/2020,-29,71,Google,48.14285714
+Greater London,Retail & recreation,06/05/2020,-77,23,Google,41.57142857
+Greater London,Grocery & pharmacy,06/05/2020,-27,73,Google,49.42857143
+Greater London,Retail & recreation,07/05/2020,-75,25,Google,44.42857143
+Greater London,Grocery & pharmacy,07/05/2020,-22,78,Google,52
+Greater London,Retail & recreation,08/05/2020,-79,21,Google,44.85714286
+Greater London,Grocery & pharmacy,08/05/2020,-27,73,Google,52
+Greater London,Retail & recreation,09/05/2020,-80,20,Google,44.71428571
+Greater London,Grocery & pharmacy,09/05/2020,-30,70,Google,51.42857143
+Greater London,Retail & recreation,10/05/2020,-83,17,Google,43.42857143
+Greater London,Grocery & pharmacy,10/05/2020,-41,59,Google,48.28571429
+Greater London,Retail & recreation,11/05/2020,-75,25,Google,40.71428571
+Greater London,Grocery & pharmacy,11/05/2020,-28,72,Google,48
+Greater London,Retail & recreation,12/05/2020,-75,25,Google,41.14285714
+Greater London,Grocery & pharmacy,12/05/2020,-27,73,Google,48.71428571
+Greater London,Retail & recreation,13/05/2020,-77,23,Google,42
+Greater London,Grocery & pharmacy,13/05/2020,-29,71,Google,49.71428571
+Greater London,Retail & recreation,14/05/2020,-75,25,Google,44.85714286
+Greater London,Grocery & pharmacy,14/05/2020,-26,74,Google,51.85714286
+Greater London,Retail & recreation,15/05/2020,-75,25,Google,45.14285714
+Greater London,Grocery & pharmacy,15/05/2020,-24,76,Google,52.42857143
+Greater London,Retail & recreation,16/05/2020,-78,22,Google,45.14285714
+Greater London,Grocery & pharmacy,16/05/2020,-28,72,Google,52.14285714
+Greater London,Retail & recreation,17/05/2020,-77,23,Google,45.28571429
+Greater London,Grocery & pharmacy,17/05/2020,-31,69,Google,51.57142857
+Greater London,Retail & recreation,18/05/2020,-70,30,Google,45.28571429
+Greater London,Grocery & pharmacy,18/05/2020,-22,78,Google,52.85714286
+Greater London,Retail & recreation,19/05/2020,-71,29,Google,46.14285714
+Greater London,Grocery & pharmacy,19/05/2020,-21,79,Google,54.28571429
+Greater London,Retail & recreation,20/05/2020,-72,28,Google,48
+Greater London,Grocery & pharmacy,20/05/2020,-19,81,Google,56.28571429
+Greater London,Retail & recreation,21/05/2020,-72,28,Google,50.42857143
+Greater London,Grocery & pharmacy,21/05/2020,-19,81,Google,57.71428571
+Greater London,Retail & recreation,22/05/2020,-73,27,Google,50.42857143
+Greater London,Grocery & pharmacy,22/05/2020,-19,81,Google,57.85714286
+Greater London,Retail & recreation,23/05/2020,-76,24,Google,50
+Greater London,Grocery & pharmacy,23/05/2020,-24,76,Google,56.85714286
+Greater London,Retail & recreation,24/05/2020,-74,26,Google,49
+Greater London,Grocery & pharmacy,24/05/2020,-28,72,Google,55.28571429
+Greater London,Retail & recreation,25/05/2020,-70,30,Google,48
+Greater London,Grocery & pharmacy,25/05/2020,-23,77,Google,55.14285714
+Greater London,Retail & recreation,26/05/2020,-70,30,Google,47.85714286
+Greater London,Grocery & pharmacy,26/05/2020,-19,81,Google,56
+Greater London,Retail & recreation,27/05/2020,-71,29,Google,49.28571429
+Greater London,Grocery & pharmacy,27/05/2020,-20,80,Google,57
+Greater London,Retail & recreation,28/05/2020,-70,30,Google,51
+Greater London,Grocery & pharmacy,28/05/2020,-18,82,Google,58.42857143
+Greater London,Retail & recreation,29/05/2020,-71,29,Google,51.57142857
+Greater London,Grocery & pharmacy,29/05/2020,-16,84,Google,59.28571429
+Greater London,Retail & recreation,30/05/2020,-74,26,Google,51.42857143
+Greater London,Grocery & pharmacy,30/05/2020,-20,80,Google,58.71428571
+Greater London,Retail & recreation,31/05/2020,-73,27,Google,51.14285714
+Greater London,Grocery & pharmacy,31/05/2020,-25,75,Google,57.57142857
+Greater London,Retail & recreation,01/06/2020,-65,35,Google,50.85714286
+Greater London,Grocery & pharmacy,01/06/2020,-16,84,Google,58.71428571
+Greater London,Retail & recreation,02/06/2020,-68,32,Google,51.28571429
+Greater London,Grocery & pharmacy,02/06/2020,-18,82,Google,59.28571429
+Greater London,Retail & recreation,03/06/2020,-71,29,Google,52
+Greater London,Grocery & pharmacy,03/06/2020,-23,77,Google,59.14285714
+Greater London,Retail & recreation,04/06/2020,-70,30,Google,52.71428571
+Greater London,Grocery & pharmacy,04/06/2020,-21,79,Google,59
+Greater London,Retail & recreation,05/06/2020,-71,29,Google,51.14285714
+Greater London,Grocery & pharmacy,05/06/2020,-20,80,Google,58
+Greater London,Retail & recreation,06/06/2020,-75,25,Google,49.85714286
+Greater London,Grocery & pharmacy,06/06/2020,-27,73,Google,56.14285714
+Greater London,Retail & recreation,07/06/2020,-72,28,Google,49.14285714
+Greater London,Grocery & pharmacy,07/06/2020,-27,73,Google,55.28571429
+Greater London,Retail & recreation,08/06/2020,-65,35,Google,49
+Greater London,Grocery & pharmacy,08/06/2020,-19,81,Google,56.42857143
+Greater London,Retail & recreation,09/06/2020,-67,33,Google,49.71428571
+Greater London,Grocery & pharmacy,09/06/2020,-20,80,Google,57.57142857
+Greater London,Retail & recreation,10/06/2020,-71,29,Google,51.28571429
+Greater London,Grocery & pharmacy,10/06/2020,-25,75,Google,58
+Greater London,Retail & recreation,11/06/2020,-68,32,Google,52.14285714
+Greater London,Grocery & pharmacy,11/06/2020,-21,79,Google,58.42857143
+Greater London,Retail & recreation,12/06/2020,-69,31,Google,51.28571429
+Greater London,Grocery & pharmacy,12/06/2020,-19,81,Google,58.14285714
+Greater London,Retail & recreation,13/06/2020,-69,31,Google,51.14285714
+Greater London,Grocery & pharmacy,13/06/2020,-18,82,Google,58.71428571
+Greater London,Retail & recreation,14/06/2020,-68,32,Google,52.57142857
+Greater London,Grocery & pharmacy,14/06/2020,-23,77,Google,59
+Greater London,Retail & recreation,15/06/2020,-55,45,Google,54.14285714
+Greater London,Grocery & pharmacy,15/06/2020,-16,84,Google,61.71428571
+Greater London,Retail & recreation,16/06/2020,-59,41,Google,56
+Greater London,Grocery & pharmacy,16/06/2020,-16,84,Google,63.57142857
+Greater London,Retail & recreation,17/06/2020,-63,37,Google,57.14285714
+Greater London,Grocery & pharmacy,17/06/2020,-20,80,Google,64
+Greater London,Retail & recreation,18/06/2020,-63,37,Google,58.28571429
+Greater London,Grocery & pharmacy,18/06/2020,-19,81,Google,63.42857143
+Greater London,Retail & recreation,19/06/2020,-62,38,Google,56.85714286
+Greater London,Grocery & pharmacy,19/06/2020,-14,86,Google,63.28571429
+Greater London,Retail & recreation,20/06/2020,-63,37,Google,56.57142857
+Greater London,Grocery & pharmacy,20/06/2020,-15,85,Google,63.42857143
+Greater London,Retail & recreation,21/06/2020,-63,37,Google,57.28571429
+Greater London,Grocery & pharmacy,21/06/2020,-22,78,Google,63.14285714
+Greater London,Retail & recreation,22/06/2020,-54,46,Google,58.14285714
+Greater London,Grocery & pharmacy,22/06/2020,-13,87,Google,65.14285714
+Greater London,Retail & recreation,23/06/2020,-58,42,Google,58.85714286
+Greater London,Grocery & pharmacy,23/06/2020,-13,87,Google,66
+Greater London,Retail & recreation,24/06/2020,-60,40,Google,59.57142857
+Greater London,Grocery & pharmacy,24/06/2020,-12,88,Google,66.85714286
+Greater London,Retail & recreation,25/06/2020,-60,40,Google,61.42857143
+Greater London,Grocery & pharmacy,25/06/2020,-11,89,Google,67.57142857
+Greater London,Retail & recreation,26/06/2020,-61,39,Google,60.71428571
+Greater London,Grocery & pharmacy,26/06/2020,-11,89,Google,67.42857143
+Greater London,Retail & recreation,27/06/2020,-65,35,Google,60
+Greater London,Grocery & pharmacy,27/06/2020,-18,82,Google,66
+Greater London,Retail & recreation,28/06/2020,-62,38,Google,58.85714286
+Greater London,Grocery & pharmacy,28/06/2020,-23,77,Google,
+Greater London,Retail & recreation,29/06/2020,-55,45,Google,57.85714286
+Greater London,Grocery & pharmacy,29/06/2020,-15,85,Google,64.42857143
+Greater London,Retail & recreation,30/06/2020,-58,42,Google,57.71428571
+Greater London,Grocery & pharmacy,30/06/2020,-18,82,Google,64.42857143
+Greater London,Retail & recreation,01/07/2020,-58,42,Google,58.71428571
+Greater London,Grocery & pharmacy,01/07/2020,,83,Google,65.14285714
+Greater London,Retail & recreation,02/07/2020,-58,42,Google,60.14285714
+Greater London,Grocery & pharmacy,02/07/2020,-17,83,Google,65.57142857
+Greater London,Retail & recreation,03/07/2020,-58,42,Google,59.42857143
+Greater London,Grocery & pharmacy,03/07/2020,-13,87,Google,65.85714286
+Greater London,Retail & recreation,04/07/2020,-57,43,Google,60.28571429
+Greater London,Grocery & pharmacy,04/07/2020,-19,81,Google,65.85714286
+Greater London,Retail & recreation,05/07/2020,-52,48,Google,60.85714286
+Greater London,Grocery & pharmacy,05/07/2020,-20,80,Google,66.28571429
+Greater London,Retail & recreation,06/07/2020,-48,52,Google,61.85714286
+Greater London,Grocery & pharmacy,06/07/2020,-15,85,Google,68
+Greater London,Retail & recreation,07/07/2020,-52,48,Google,62.42857143
+Greater London,Grocery & pharmacy,07/07/2020,-18,82,Google,68
+Greater London,Retail & recreation,08/07/2020,-55,45,Google,62.85714286
+Greater London,Grocery & pharmacy,08/07/2020,-20,80,Google,67.42857143
+Greater London,Retail & recreation,09/07/2020,-54,46,Google,62.57142857
+Greater London,Grocery & pharmacy,09/07/2020,-18,82,Google,66.85714286
+Greater London,Retail & recreation,10/07/2020,-52,48,Google,61.57142857
+Greater London,Grocery & pharmacy,10/07/2020,-14,86,Google,67
+Greater London,Retail & recreation,11/07/2020,-54,46,Google,61.85714286
+Greater London,Grocery & pharmacy,11/07/2020,-18,82,Google,67.14285714
+Greater London,Retail & recreation,12/07/2020,-51,49,Google,62.71428571
+Greater London,Grocery & pharmacy,12/07/2020,-20,80,Google,67.57142857
+Greater London,Retail & recreation,13/07/2020,-47,53,Google,63.42857143
+Greater London,Grocery & pharmacy,13/07/2020,-15,85,Google,68.71428571
+Greater London,Retail & recreation,14/07/2020,-49,51,Google,63.71428571
+Greater London,Grocery & pharmacy,14/07/2020,-17,83,Google,69
+Greater London,Retail & recreation,15/07/2020,-48,52,Google,64.71428571
+Greater London,Grocery & pharmacy,15/07/2020,-19,81,Google,69.28571429
+Greater London,Retail & recreation,16/07/2020,-46,54,Google,65.57142857
+Greater London,Grocery & pharmacy,16/07/2020,-16,84,Google,70
+Greater London,Retail & recreation,17/07/2020,-46,54,Google,65.57142857
+Greater London,Grocery & pharmacy,17/07/2020,-14,86,Google,70.57142857
+Greater London,Retail & recreation,18/07/2020,-50,50,Google,65.85714286
+Greater London,Grocery & pharmacy,18/07/2020,-19,81,Google,70
+Greater London,Retail & recreation,19/07/2020,-49,51,Google,65.71428571
+Greater London,Grocery & pharmacy,19/07/2020,-25,75,Google,68.71428571
+Greater London,Retail & recreation,20/07/2020,-40,60,Google,65.28571429
+Greater London,Grocery & pharmacy,20/07/2020,-14,86,Google,69.85714286
+Greater London,Retail & recreation,21/07/2020,-44,56,Google,65.57142857
+Greater London,Grocery & pharmacy,21/07/2020,-17,83,Google,70.28571429
+Greater London,Retail & recreation,22/07/2020,-45,55,Google,66.57142857
+Greater London,Grocery & pharmacy,22/07/2020,-18,82,Google,71
+Greater London,Retail & recreation,23/07/2020,-45,55,Google,68.14285714
+Greater London,Grocery & pharmacy,23/07/2020,-17,83,Google,71.42857143
+Greater London,Retail & recreation,24/07/2020,-47,53,Google,66.71428571
+Greater London,Grocery & pharmacy,24/07/2020,-18,82,Google,70.42857143
+Greater London,Retail & recreation,25/07/2020,-52,48,Google,65.42857143
+Greater London,Grocery & pharmacy,25/07/2020,-25,75,Google,68.28571429
+Greater London,Retail & recreation,26/07/2020,-46,54,Google,64.28571429
+Greater London,Grocery & pharmacy,26/07/2020,-24,76,Google,67.28571429
+Greater London,Retail & recreation,27/07/2020,-44,56,Google,63.42857143
+Greater London,Grocery & pharmacy,27/07/2020,-19,81,Google,67.42857143
+Greater London,Retail & recreation,28/07/2020,-43,57,Google,63.85714286
+Greater London,Grocery & pharmacy,28/07/2020,-17,83,Google,68.85714286
+Greater London,Retail & recreation,29/07/2020,-42,58,Google,66.42857143
+Greater London,Grocery & pharmacy,29/07/2020,-16,84,Google,70.71428571
+Greater London,Retail & recreation,30/07/2020,-41,59,Google,68.28571429
+Greater London,Grocery & pharmacy,30/07/2020,-13,87,Google,72.71428571
+Greater London,Retail & recreation,31/07/2020,-46,54,Google,68.85714286
+Greater London,Grocery & pharmacy,31/07/2020,-18,82,Google,72.42857143
+Greater London,Retail & recreation,01/08/2020,-49,51,Google,67.85714286
+Greater London,Grocery & pharmacy,01/08/2020,-21,79,Google,70.85714286
+Greater London,Retail & recreation,02/08/2020,-44,56,Google,66.85714286
+Greater London,Grocery & pharmacy,02/08/2020,-23,77,Google,69.42857143
+Greater London,Retail & recreation,03/08/2020,-35,65,Google,66.28571429
+Greater London,Grocery & pharmacy,03/08/2020,-17,83,Google,70.42857143
+Greater London,Retail & recreation,04/08/2020,-36,64,Google,67.85714286
+Greater London,Grocery & pharmacy,04/08/2020,-19,81,Google,72.14285714
+Greater London,Retail & recreation,05/08/2020,-36,64,Google,70
+Greater London,Grocery & pharmacy,05/08/2020,-20,80,Google,73.42857143
+Greater London,Retail & recreation,06/08/2020,-42,58,Google,70.71428571
+Greater London,Grocery & pharmacy,06/08/2020,-17,83,Google,73.28571429
+Greater London,Retail & recreation,07/08/2020,-46,54,Google,69.14285714
+Greater London,Grocery & pharmacy,07/08/2020,-18,82,Google,71.71428571
+Greater London,Retail & recreation,08/08/2020,-49,51,Google,67.42857143
+Greater London,Grocery & pharmacy,08/08/2020,-22,78,Google,69.42857143
+Greater London,Retail & recreation,09/08/2020,-45,55,Google,65.85714286
+Greater London,Grocery & pharmacy,09/08/2020,-23,77,Google,68.57142857
+Greater London,Retail & recreation,10/08/2020,-32,68,Google,66.42857143
+Greater London,Grocery & pharmacy,10/08/2020,-16,84,Google,70.71428571
+Greater London,Retail & recreation,11/08/2020,-35,65,Google,68.28571429
+Greater London,Grocery & pharmacy,11/08/2020,-19,81,Google,72.57142857
+Greater London,Retail & recreation,12/08/2020,-36,64,Google,70.57142857
+Greater London,Grocery & pharmacy,12/08/2020,-19,81,Google,74.28571429
+Greater London,Retail & recreation,13/08/2020,-43,57,Google,71.42857143
+Greater London,Grocery & pharmacy,13/08/2020,-20,80,Google,73.14285714
+Greater London,Retail & recreation,14/08/2020,-45,55,Google,69
+Greater London,Grocery & pharmacy,14/08/2020,-21,79,Google,71
+Greater London,Retail & recreation,15/08/2020,-48,52,Google,66.85714286
+Greater London,Grocery & pharmacy,15/08/2020,-25,75,Google,68.42857143
+Greater London,Retail & recreation,16/08/2020,-44,56,Google,64.85714286
+Greater London,Grocery & pharmacy,16/08/2020,-26,74,Google,67.28571429
+Greater London,Retail & recreation,17/08/2020,-30,70,Google,65.85714286
+Greater London,Grocery & pharmacy,17/08/2020,-22,78,Google,69.14285714
+Greater London,Retail & recreation,18/08/2020,-31,69,Google,67.71428571
+Greater London,Grocery & pharmacy,18/08/2020,-21,79,Google,71.57142857
+Greater London,Retail & recreation,19/08/2020,-38,62,Google,69.71428571
+Greater London,Grocery & pharmacy,19/08/2020,-29,71,Google,71.85714286
+Greater London,Retail & recreation,20/08/2020,-38,62,Google,70.14285714
+Greater London,Grocery & pharmacy,20/08/2020,-16,84,Google,72.14285714
+Greater London,Retail & recreation,21/08/2020,-43,57,Google,69.14285714
+Greater London,Grocery & pharmacy,21/08/2020,-20,80,Google,70.71428571
+Greater London,Retail & recreation,22/08/2020,-45,55,Google,67.28571429
+Greater London,Grocery & pharmacy,22/08/2020,-22,78,Google,69.57142857
+Greater London,Retail & recreation,23/08/2020,-41,59,Google,67.85714286
+Greater London,Grocery & pharmacy,23/08/2020,-25,75,Google,69.71428571
+Greater London,Retail & recreation,24/08/2020,-26,74,Google,68.28571429
+Greater London,Grocery & pharmacy,24/08/2020,-21,79,Google,71.42857143
+Greater London,Retail & recreation,25/08/2020,-31,69,Google,69.85714286
+Greater London,Grocery & pharmacy,25/08/2020,-23,77,Google,73
+Greater London,Retail & recreation,26/08/2020,-25,75,Google,72.57142857
+Greater London,Grocery & pharmacy,26/08/2020,-19,81,Google,75.71428571
+Greater London,Retail & recreation,27/08/2020,-40,60,Google,73.57142857
+Greater London,Grocery & pharmacy,27/08/2020,-23,77,Google,74
+Greater London,Retail & recreation,28/08/2020,-39,61,Google,71.42857143
+Greater London,Grocery & pharmacy,28/08/2020,-17,83,Google,73.42857143
+Greater London,Retail & recreation,29/08/2020,-43,57,Google,70.57142857
+Greater London,Grocery & pharmacy,29/08/2020,-23,77,Google,70.85714286
+Greater London,Retail & recreation,30/08/2020,-35,65,Google,68.57142857
+Greater London,Grocery & pharmacy,30/08/2020,-23,77,Google,71
+Greater London,Retail & recreation,31/08/2020,-18,82,Google,71.71428571
+Greater London,Grocery & pharmacy,31/08/2020,-24,76,Google,73.85714286
+Greater London,Retail & recreation,01/09/2020,-34,66,Google,71.42857143
+Greater London,Grocery & pharmacy,01/09/2020,,85,Google,75.42857143
+Greater London,Retail & recreation,02/09/2020,-37,63,Google,73.42857143
+Greater London,Grocery & pharmacy,02/09/2020,-18,82,Google,75.85714286
+Greater London,Retail & recreation,03/09/2020,-38,62,Google,73.71428571
+Greater London,Grocery & pharmacy,03/09/2020,-18,82,Google,73.71428571
+Greater London,Retail & recreation,04/09/2020,-38,62,Google,71.71428571
+Greater London,Grocery & pharmacy,04/09/2020,-16,84,Google,
+Greater London,Retail & recreation,05/09/2020,-38,62,Google,71
+Greater London,Grocery & pharmacy,05/09/2020,-18,82,Google,73.71428571
+Greater London,Retail & recreation,06/09/2020,-34,66,Google,71.42857143
+Greater London,Grocery & pharmacy,06/09/2020,-18,82,Google,74.28571429
+Greater London,Retail & recreation,07/09/2020,-32,68,Google,72.28571429
+Greater London,Grocery & pharmacy,07/09/2020,-14,86,Google,75.71428571
+Greater London,Retail & recreation,08/09/2020,-35,65,Google,73
+Greater London,Grocery & pharmacy,08/09/2020,-15,85,Google,76.28571429
+Greater London,Retail & recreation,09/09/2020,-37,63,Google,73.57142857
+Greater London,Grocery & pharmacy,09/09/2020,-16,84,Google,76.14285714
+Greater London,Retail & recreation,10/09/2020,-35,65,Google,73.71428571
+Greater London,Grocery & pharmacy,10/09/2020,-14,86,Google,76.28571429
+Greater London,Retail & recreation,11/09/2020,-36,64,Google,73.14285714
+Greater London,Grocery & pharmacy,11/09/2020,-14,86,Google,76.14285714
+Greater London,Retail & recreation,12/09/2020,-38,62,Google,72.85714286
+Greater London,Grocery & pharmacy,12/09/2020,-17,83,Google,75.71428571
+Greater London,Retail & recreation,13/09/2020,-34,66,Google,73.14285714
+Greater London,Grocery & pharmacy,13/09/2020,-17,83,Google,75.71428571
+Greater London,Retail & recreation,14/09/2020,-32,68,Google,73.14285714
+Greater London,Grocery & pharmacy,14/09/2020,-13,87,Google,76.42857143
+Greater London,Retail & recreation,15/09/2020,-35,65,Google,73.42857143
+Greater London,Grocery & pharmacy,15/09/2020,-14,86,Google,
+Greater London,Retail & recreation,16/09/2020,-37,63,Google,74
+Greater London,Grocery & pharmacy,16/09/2020,-16,84,Google,76.57142857
+Greater London,Retail & recreation,17/09/2020,-36,64,Google,73.85714286
+Greater London,Grocery & pharmacy,17/09/2020,-15,85,Google,76.28571429
+Greater London,Retail & recreation,18/09/2020,-37,63,Google,72.85714286
+Greater London,Grocery & pharmacy,18/09/2020,-14,86,Google,75.85714286
+Greater London,Retail & recreation,19/09/2020,-38,62,Google,72.42857143
+Greater London,Grocery & pharmacy,19/09/2020,-18,82,Google,75.14285714
+Greater London,Retail & recreation,20/09/2020,-35,65,Google,72.42857143
+Greater London,Grocery & pharmacy,20/09/2020,-18,82,Google,75
+Greater London,Retail & recreation,21/09/2020,-32,68,Google,72.57142857
+Greater London,Grocery & pharmacy,21/09/2020,-12,88,Google,76.14285714
+Greater London,Retail & recreation,22/09/2020,-36,64,Google,73
+Greater London,Grocery & pharmacy,22/09/2020,-14,86,Google,76.42857143
+Greater London,Retail & recreation,23/09/2020,-41,59,Google,73.14285714
+Greater London,Grocery & pharmacy,23/09/2020,-18,82,Google,75.57142857
+Greater London,Retail & recreation,24/09/2020,-40,60,Google,72.42857143
+Greater London,Grocery & pharmacy,24/09/2020,-15,85,Google,74.85714286
+Greater London,Retail & recreation,25/09/2020,-40,60,Google,70.85714286
+Greater London,Grocery & pharmacy,25/09/2020,-13,87,Google,74.14285714
+Greater London,Retail & recreation,26/09/2020,-40,60,Google,70.42857143
+Greater London,Grocery & pharmacy,26/09/2020,-17,83,Google,73.85714286
+Greater London,Retail & recreation,27/09/2020,-40,60,Google,70.71428571
+Greater London,Grocery & pharmacy,27/09/2020,-21,79,Google,73.42857143
+Greater London,Retail & recreation,28/09/2020,-33,67,Google,70.85714286
+Greater London,Grocery & pharmacy,28/09/2020,-13,87,Google,74.71428571
+Greater London,Retail & recreation,29/09/2020,-38,62,Google,71.14285714
+Greater London,Grocery & pharmacy,29/09/2020,-15,85,Google,74.71428571
+Greater London,Retail & recreation,30/09/2020,-39,61,Google,71.57142857
+Greater London,Grocery & pharmacy,30/09/2020,-17,83,Google,74.85714286
+Greater London,Retail & recreation,01/10/2020,-37,63,Google,72.57142857
+Greater London,Grocery & pharmacy,01/10/2020,-12,88,Google,75.57142857
+Greater London,Retail & recreation,02/10/2020,-47,53,Google,70.71428571
+Greater London,Grocery & pharmacy,02/10/2020,-20,80,Google,73.28571429
+Greater London,Retail & recreation,03/10/2020,-42,58,Google,69.42857143
+Greater London,Grocery & pharmacy,03/10/2020,-16,84,Google,72.71428571
+Greater London,Retail & recreation,04/10/2020,-45,55,Google,68.71428571
+Greater London,Grocery & pharmacy,04/10/2020,-26,74,Google,70.28571429
+Greater London,Retail & recreation,05/10/2020,-36,64,Google,66.85714286
+Greater London,Grocery & pharmacy,05/10/2020,-13,87,Google,71.71428571
+Greater London,Retail & recreation,06/10/2020,-39,61,Google,69
+Greater London,Grocery & pharmacy,06/10/2020,-15,85,Google,72.85714286
+Greater London,Retail & recreation,07/10/2020,-39,61,Google,69.57142857
+Greater London,Grocery & pharmacy,07/10/2020,-15,85,Google,73.85714286
+Greater London,Retail & recreation,08/10/2020,-41,59,Google,71.71428571
+Greater London,Grocery & pharmacy,08/10/2020,-16,84,Google,74.57142857
+Greater London,Retail & recreation,09/10/2020,-41,59,Google,70.57142857
+Greater London,Grocery & pharmacy,09/10/2020,-14,86,Google,74.14285714
+Greater London,Retail & recreation,10/10/2020,-39,61,Google,70.71428571
+Greater London,Grocery & pharmacy,10/10/2020,-16,84,Google,74
+Greater London,Retail & recreation,11/10/2020,-36,64,Google,71
+Greater London,Grocery & pharmacy,11/10/2020,-18,82,Google,74.28571429
+Greater London,Retail & recreation,12/10/2020,-40,60,Google,70.85714286
+Greater London,Grocery & pharmacy,12/10/2020,-17,83,Google,74.28571429
+Greater London,Retail & recreation,13/10/2020,-43,57,Google,70.14285714
+Greater London,Grocery & pharmacy,13/10/2020,-19,81,Google,73
+Greater London,Retail & recreation,14/10/2020,-40,60,Google,69.57142857
+Greater London,Grocery & pharmacy,14/10/2020,-14,86,Google,72.71428571
+Greater London,Retail & recreation,15/10/2020,-39,61,Google,69.71428571
+Greater London,Grocery & pharmacy,15/10/2020,-13,87,Google,73.57142857
+Greater London,Retail & recreation,16/10/2020,-39,61,Google,70.42857143
+Greater London,Grocery & pharmacy,16/10/2020,-10,90,Google,75.14285714
+Greater London,Retail & recreation,17/10/2020,-43,57,Google,71.71428571
+Greater London,Grocery & pharmacy,17/10/2020,-16,84,Google,75.14285714
+Greater London,Retail & recreation,18/10/2020,-40,60,Google,71.42857143
+Greater London,Grocery & pharmacy,18/10/2020,-18,82,Google,74.42857143
+Greater London,Retail & recreation,19/10/2020,-38,62,Google,70.85714286
+Greater London,Grocery & pharmacy,19/10/2020,-14,86,Google,74.42857143
+Greater London,Retail & recreation,20/10/2020,-41,59,Google,70
+Greater London,Grocery & pharmacy,20/10/2020,-15,85,Google,74
+Greater London,Retail & recreation,21/10/2020,-47,53,Google,69.57142857
+Greater London,Grocery & pharmacy,21/10/2020,-21,79,Google,72.28571429
+Greater London,Retail & recreation,22/10/2020,-39,61,Google,69.28571429
+Greater London,Grocery & pharmacy,22/10/2020,-12,88,Google,73
+Greater London,Retail & recreation,23/10/2020,-41,59,Google,69.14285714
+Greater London,Grocery & pharmacy,23/10/2020,-12,88,Google,73.28571429
+Greater London,Retail & recreation,24/10/2020,-44,56,Google,69.14285714
+Greater London,Grocery & pharmacy,24/10/2020,-18,82,Google,73.28571429
+Greater London,Retail & recreation,25/10/2020,-36,64,Google,71.14285714
+Greater London,Grocery & pharmacy,25/10/2020,-16,84,Google,74.42857143
+Greater London,Retail & recreation,26/10/2020,-33,67,Google,71.42857143
+Greater London,Grocery & pharmacy,26/10/2020,-14,86,Google,75.28571429
+Greater London,Retail & recreation,27/10/2020,-40,60,Google,71.28571429
+Greater London,Grocery & pharmacy,27/10/2020,-19,81,Google,74.85714286
+Greater London,Retail & recreation,28/10/2020,-38,62,Google,72
+Greater London,Grocery & pharmacy,28/10/2020,-16,84,Google,74.85714286
+Greater London,Retail & recreation,29/10/2020,-41,59,Google,71.28571429
+Greater London,Grocery & pharmacy,29/10/2020,-17,83,Google,73.57142857
+Greater London,Retail & recreation,30/10/2020,-39,61,Google,70
+Greater London,Grocery & pharmacy,30/10/2020,-11,89,Google,74.14285714
+Greater London,Retail & recreation,31/10/2020,-44,56,Google,70.57142857
+Greater London,Grocery & pharmacy,31/10/2020,-15,85,Google,73.85714286
+Greater London,Retail & recreation,01/11/2020,-34,66,Google,71.28571429
+Greater London,Grocery & pharmacy,01/11/2020,-16,84,Google,74.85714286
+Greater London,Retail & recreation,02/11/2020,-28,72,Google,73.28571429
+Greater London,Grocery & pharmacy,02/11/2020,-9,91,Google,77.57142857
+Greater London,Retail & recreation,03/11/2020,-27,73,Google,75.28571429
+Greater London,Grocery & pharmacy,03/11/2020,-11,89,Google,80
+Greater London,Retail & recreation,04/11/2020,-21,79,Google,79.14285714
+Greater London,Grocery & pharmacy,04/11/2020,-8,92,Google,82.85714286
+Greater London,Retail & recreation,05/11/2020,-64,36,Google,76
+Greater London,Grocery & pharmacy,05/11/2020,-18,82,Google,77.42857143
+Greater London,Retail & recreation,06/11/2020,-65,35,Google,69.42857143
+Greater London,Grocery & pharmacy,06/11/2020,-15,85,Google,71.14285714
+Greater London,Retail & recreation,07/11/2020,-66,34,Google,63.28571429
+Greater London,Grocery & pharmacy,07/11/2020,-18,82,Google,63.71428571
+Greater London,Retail & recreation,08/11/2020,-66,34,Google,55.42857143
+Greater London,Grocery & pharmacy,08/11/2020,-23,77,Google,61.28571429
+Greater London,Retail & recreation,09/11/2020,-59,41,Google,55.42857143
+Greater London,Grocery & pharmacy,09/11/2020,-19,81,Google,62
+Greater London,Retail & recreation,10/11/2020,-61,39,Google,55.42857143
+Greater London,Grocery & pharmacy,10/11/2020,-16,84,Google,62.57142857
+Greater London,Retail & recreation,11/11/2020,-62,38,Google,56.28571429
+Greater London,Grocery & pharmacy,11/11/2020,-17,83,Google,63.28571429
+Greater London,Retail & recreation,12/11/2020,-61,39,Google,57.85714286
+Greater London,Grocery & pharmacy,12/11/2020,-13,87,Google,64.42857143
+Greater London,Retail & recreation,13/11/2020,-63,37,Google,58.14285714
+Greater London,Grocery & pharmacy,13/11/2020,-11,89,Google,65.28571429
+Greater London,Retail & recreation,14/11/2020,-69,31,Google,57.71428571
+Greater London,Grocery & pharmacy,14/11/2020,-21,79,Google,63.57142857
+Greater London,Retail & recreation,15/11/2020,-66,34,Google,56.57142857
+Greater London,Grocery & pharmacy,15/11/2020,-22,78,Google,62.14285714
+Greater London,Retail & recreation,16/11/2020,-59,41,Google,55.57142857
+Greater London,Grocery & pharmacy,16/11/2020,-17,83,Google,62.14285714
+Greater London,Retail & recreation,17/11/2020,-61,39,Google,55
+Greater London,Grocery & pharmacy,17/11/2020,-16,84,Google,62.57142857
+Greater London,Retail & recreation,18/11/2020,-62,38,Google,56.71428571
+Greater London,Grocery & pharmacy,18/11/2020,-17,83,Google,63.71428571
+Greater London,Retail & recreation,19/11/2020,-63,37,Google,57.85714286
+Greater London,Grocery & pharmacy,19/11/2020,-16,84,Google,64
+Greater London,Retail & recreation,20/11/2020,-64,36,Google,57.28571429
+Greater London,Grocery & pharmacy,20/11/2020,-13,87,Google,64.14285714
+Greater London,Retail & recreation,21/11/2020,-65,35,Google,57.14285714
+Greater London,Grocery & pharmacy,21/11/2020,-16,84,Google,63.71428571
+Greater London,Retail & recreation,22/11/2020,-62,38,Google,57.28571429
+Greater London,Grocery & pharmacy,22/11/2020,-18,82,Google,63.71428571
+Greater London,Retail & recreation,23/11/2020,-58,42,Google,57.71428571
+Greater London,Grocery & pharmacy,23/11/2020,-16,84,Google,64.57142857
+Greater London,Retail & recreation,24/11/2020,-60,40,Google,57.85714286
+Greater London,Grocery & pharmacy,24/11/2020,-16,84,Google,64.85714286
+Greater London,Retail & recreation,25/11/2020,-62,38,Google,58.28571429
+Greater London,Grocery & pharmacy,25/11/2020,-18,82,Google,64.57142857
+Greater London,Retail & recreation,26/11/2020,-60,40,Google,58.57142857
+Greater London,Grocery & pharmacy,26/11/2020,-15,85,Google,64.71428571
+Greater London,Retail & recreation,27/11/2020,-61,39,Google,58.28571429
+Greater London,Grocery & pharmacy,27/11/2020,-12,88,Google,65.14285714
+Greater London,Retail & recreation,28/11/2020,-63,37,Google,58.42857143
+Greater London,Grocery & pharmacy,28/11/2020,-16,84,Google,65
+Greater London,Retail & recreation,29/11/2020,-63,37,Google,58.57142857
+Greater London,Grocery & pharmacy,29/11/2020,-21,79,Google,64.14285714
+Greater London,Retail & recreation,30/11/2020,-56,44,Google,58.28571429
+Greater London,Grocery & pharmacy,30/11/2020,-16,84,Google,64.71428571
+Greater London,Retail & recreation,01/12/2020,-57,43,Google,58.28571429
+Greater London,Grocery & pharmacy,01/12/2020,-14,86,Google,65.28571429
+Greater London,Retail & recreation,02/12/2020,-43,57,Google,61.42857143
+Greater London,Grocery & pharmacy,02/12/2020,-13,87,Google,68.57142857
+Greater London,Retail & recreation,03/12/2020,-46,54,Google,65
+Greater London,Grocery & pharmacy,03/12/2020,-18,82,Google,70.42857143
+Greater London,Retail & recreation,04/12/2020,-42,58,Google,66.71428571
+Greater London,Grocery & pharmacy,04/12/2020,-9,91,Google,73.57142857
+Greater London,Retail & recreation,05/12/2020,-38,62,Google,70.14285714
+Greater London,Grocery & pharmacy,05/12/2020,-10,90,Google,74.85714286
+Greater London,Retail & recreation,06/12/2020,-38,62,Google,71.28571429
+Greater London,Grocery & pharmacy,06/12/2020,-15,85,Google,75.71428571
+Greater London,Retail & recreation,07/12/2020,-38,62,Google,72.85714286
+Greater London,Grocery & pharmacy,07/12/2020,-12,88,Google,77.14285714
+Greater London,Retail & recreation,08/12/2020,-41,59,Google,72.57142857
+Greater London,Grocery & pharmacy,08/12/2020,-12,88,Google,76.28571429
+Greater London,Retail & recreation,09/12/2020,-42,58,Google,71.71428571
+Greater London,Grocery & pharmacy,09/12/2020,-12,88,Google,75.42857143
+Greater London,Retail & recreation,10/12/2020,-41,59,Google,71.71428571
+Greater London,Grocery & pharmacy,10/12/2020,-11,89,Google,75.57142857
+Greater London,Retail & recreation,11/12/2020,-42,58,Google,71.28571429
+Greater London,Grocery & pharmacy,11/12/2020,-9,91,Google,75.85714286
+Greater London,Retail & recreation,12/12/2020,-41,59,Google,71.71428571
+Greater London,Grocery & pharmacy,12/12/2020,-11,89,Google,76.14285714
+Greater London,Retail & recreation,13/12/2020,-44,56,Google,71.57142857
+Greater London,Grocery & pharmacy,13/12/2020,-18,82,Google,74.85714286
+Greater London,Retail & recreation,14/12/2020,-37,63,Google,71.14285714
+Greater London,Grocery & pharmacy,14/12/2020,-12,88,Google,75.42857143
+Greater London,Retail & recreation,15/12/2020,-32,68,Google,72.14285714
+Greater London,Grocery & pharmacy,15/12/2020,-7,93,Google,77
+Greater London,Retail & recreation,16/12/2020,-51,49,Google,71.28571429
+Greater London,Grocery & pharmacy,16/12/2020,-12,88,Google,75.85714286
+Greater London,Retail & recreation,17/12/2020,-49,51,Google,71.42857143
+Greater London,Grocery & pharmacy,17/12/2020,-6,94,Google,75.85714286
+Greater London,Retail & recreation,18/12/2020,-53,47,Google,70
+Greater London,Grocery & pharmacy,18/12/2020,-9,91,Google,73.28571429
+Greater London,Retail & recreation,19/12/2020,-53,47,Google,66.71428571
+Greater London,Grocery & pharmacy,19/12/2020,-10,90,Google,72.57142857
+Greater London,Retail & recreation,20/12/2020,-65,35,Google,65
+Greater London,Grocery & pharmacy,20/12/2020,-18,82,Google,69.42857143
+Greater London,Retail & recreation,21/12/2020,-58,42,Google,62
+Greater London,Grocery & pharmacy,21/12/2020,-5,95,Google,68.85714286
+Greater London,Retail & recreation,22/12/2020,-58,42,Google,61.85714286
+Greater London,Grocery & pharmacy,22/12/2020,-3,97,Google,69
+Greater London,Retail & recreation,23/12/2020,-59,41,Google,62
+Greater London,Grocery & pharmacy,23/12/2020,4,104,Google,71.85714286
+Greater London,Retail & recreation,24/12/2020,-61,39,Google,65.71428571
+Greater London,Grocery & pharmacy,24/12/2020,3,103,Google,74.42857143
+Greater London,Retail & recreation,25/12/2020,-92,8,Google,62
+Greater London,Grocery & pharmacy,25/12/2020,-84,16,Google,58.28571429
+Greater London,Retail & recreation,26/12/2020,-85,15,Google,46.57142857
+Greater London,Grocery & pharmacy,26/12/2020,-58,42,Google,46.71428571
+Greater London,Retail & recreation,27/12/2020,-71,29,Google,36
+Greater London,Grocery & pharmacy,27/12/2020,-32,68,Google,40.14285714
+Greater London,Retail & recreation,28/12/2020,-68,32,Google,30
+Greater London,Grocery & pharmacy,28/12/2020,-31,69,Google,38.71428571
+Greater London,Retail & recreation,29/12/2020,-65,35,Google,41.42857143
+Greater London,Grocery & pharmacy,29/12/2020,-21,79,Google,50.57142857
+Greater London,Retail & recreation,30/12/2020,-64,36,Google,49.71428571
+Greater London,Grocery & pharmacy,30/12/2020,-14,86,Google,57.85714286
+Greater London,Retail & recreation,31/12/2020,-65,35,Google,53.14285714
+Greater London,Grocery & pharmacy,31/12/2020,-7,93,Google,61.85714286
+Greater London,Retail & recreation,01/01/2021,-85,15,Google,54.14285714
+Greater London,Grocery & pharmacy,01/01/2021,-61,39,Google,54.71428571
+Greater London,Retail & recreation,02/01/2021,-74,26,Google,47.14285714
+Greater London,Grocery & pharmacy,02/01/2021,-31,69,Google,51.85714286
+Greater London,Retail & recreation,03/01/2021,-72,28,Google,43.57142857
+Greater London,Grocery & pharmacy,03/01/2021,-33,67,Google,48.14285714
+Greater London,Retail & recreation,04/01/2021,-66,34,Google,39.71428571
+Greater London,Grocery & pharmacy,04/01/2021,-25,75,Google,48.28571429
+Greater London,Retail & recreation,05/01/2021,-70,30,Google,47
+Greater London,Grocery & pharmacy,05/01/2021,-29,71,Google,53.42857143
+Greater London,Retail & recreation,06/01/2021,-70,30,Google,47.85714286
+Greater London,Grocery & pharmacy,06/01/2021,-27,73,Google,54.28571429
+Greater London,Retail & recreation,07/01/2021,-70,30,Google,49
+Greater London,Grocery & pharmacy,07/01/2021,-27,73,Google,54.57142857
+Greater London,Retail & recreation,08/01/2021,-72,28,Google,47.85714286
+Greater London,Grocery & pharmacy,08/01/2021,-28,72,Google,53.85714286
+Greater London,Retail & recreation,09/01/2021,-73,27,Google,47.57142857
+Greater London,Grocery & pharmacy,09/01/2021,-27,73,Google,53.71428571
+Greater London,Retail & recreation,10/01/2021,-74,26,Google,47
+Greater London,Grocery & pharmacy,10/01/2021,-34,66,Google,52.14285714
+Greater London,Retail & recreation,11/01/2021,-67,33,Google,46.42857143
+Greater London,Grocery & pharmacy,11/01/2021,-28,72,Google,52.71428571
+Greater London,Retail & recreation,12/01/2021,-70,30,Google,46.71428571
+Greater London,Grocery & pharmacy,12/01/2021,-30,70,Google,52.85714286
+Greater London,Retail & recreation,13/01/2021,-72,28,Google,46.42857143
+Greater London,Grocery & pharmacy,13/01/2021,-32,68,Google,52.42857143
+Greater London,Retail & recreation,14/01/2021,-74,26,Google,46.71428571
+Greater London,Grocery & pharmacy,14/01/2021,-33,67,Google,51.57142857
+Greater London,Retail & recreation,15/01/2021,-72,28,Google,45.28571429
+Greater London,Grocery & pharmacy,15/01/2021,-26,74,Google,51.57142857
+Greater London,Retail & recreation,16/01/2021,-76,24,Google,45
+Greater London,Grocery & pharmacy,16/01/2021,-31,69,Google,50.85714286
+Greater London,Retail & recreation,17/01/2021,-71,29,Google,45.28571429
+Greater London,Grocery & pharmacy,17/01/2021,-30,70,Google,51.57142857
+Greater London,Retail & recreation,18/01/2021,-68,32,Google,46.57142857
+Greater London,Grocery & pharmacy,18/01/2021,-29,71,Google,52.71428571
+Greater London,Retail & recreation,19/01/2021,-70,30,Google,46.42857143
+Greater London,Grocery & pharmacy,19/01/2021,-30,70,Google,53
+Greater London,Retail & recreation,20/01/2021,-73,27,Google,47
+Greater London,Grocery & pharmacy,20/01/2021,-33,67,Google,52.42857143
+Greater London,Retail & recreation,21/01/2021,-70,30,Google,46.71428571
+Greater London,Grocery & pharmacy,21/01/2021,-26,74,Google,52.71428571
+Greater London,Retail & recreation,22/01/2021,-70,30,Google,46.85714286
+Greater London,Grocery & pharmacy,22/01/2021,-24,76,Google,53.42857143
+Greater London,Retail & recreation,23/01/2021,-72,28,Google,47.42857143
+Greater London,Grocery & pharmacy,23/01/2021,-25,75,Google,54.28571429
+Greater London,Retail & recreation,24/01/2021,-76,24,Google,48.14285714
+Greater London,Grocery & pharmacy,24/01/2021,-37,63,Google,52.85714286
+Greater London,Retail & recreation,25/01/2021,-67,33,Google,47
+Greater London,Grocery & pharmacy,25/01/2021,-26,74,Google,53.28571429
+Greater London,Retail & recreation,26/01/2021,-70,30,Google,46.71428571
+Greater London,Grocery & pharmacy,26/01/2021,-30,70,Google,52.71428571
+Greater London,Retail & recreation,27/01/2021,-70,30,Google,46.28571429
+Greater London,Grocery & pharmacy,27/01/2021,-27,73,Google,53.28571429
+Greater London,Retail & recreation,28/01/2021,-69,31,Google,48.71428571
+Greater London,Grocery & pharmacy,28/01/2021,-24,76,Google,54.85714286
+Greater London,Retail & recreation,29/01/2021,-70,30,Google,48.57142857
+Greater London,Grocery & pharmacy,29/01/2021,-21,79,Google,55.57142857
+Greater London,Retail & recreation,30/01/2021,-75,25,Google,49.14285714
+Greater London,Grocery & pharmacy,30/01/2021,-29,71,Google,55
+Greater London,Retail & recreation,31/01/2021,-70,30,Google,48.85714286
+Greater London,Grocery & pharmacy,31/01/2021,-27,73,Google,54.85714286
+Greater London,Retail & recreation,01/02/2021,-66,34,Google,48.85714286
+Greater London,Grocery & pharmacy,01/02/2021,-25,75,Google,55.28571429
+Greater London,Retail & recreation,02/02/2021,-67,33,Google,48.71428571
+Greater London,Grocery & pharmacy,02/02/2021,-24,76,Google,56
+Greater London,Retail & recreation,03/02/2021,-69,31,Google,50.28571429
+Greater London,Grocery & pharmacy,03/02/2021,-26,74,Google,56.57142857
+Greater London,Retail & recreation,04/02/2021,-69,31,Google,50.57142857
+Greater London,Grocery & pharmacy,04/02/2021,-26,74,Google,56.28571429
+Greater London,Retail & recreation,05/02/2021,-67,33,Google,50.28571429
+Greater London,Grocery & pharmacy,05/02/2021,-16,84,Google,57.57142857
+Greater London,Retail & recreation,06/02/2021,-70,30,Google,51
+Greater London,Grocery & pharmacy,06/02/2021,-22,78,Google,57.71428571
+Greater London,Retail & recreation,07/02/2021,-75,25,Google,50.71428571
+Greater London,Grocery & pharmacy,07/02/2021,-35,65,Google,55.57142857
+Greater London,Retail & recreation,08/02/2021,-69,31,Google,49.42857143
+Greater London,Grocery & pharmacy,08/02/2021,-29,71,Google,54.85714286
+Greater London,Retail & recreation,09/02/2021,-70,30,Google,47.14285714
+Greater London,Grocery & pharmacy,09/02/2021,-28,72,Google,53.14285714
+Greater London,Retail & recreation,10/02/2021,-67,33,Google,46.71428571
+Greater London,Grocery & pharmacy,10/02/2021,-21,79,Google,54.42857143
+Greater London,Retail & recreation,11/02/2021,-68,32,Google,49.71428571
+Greater London,Grocery & pharmacy,11/02/2021,-21,79,Google,56.57142857
+Greater London,Retail & recreation,12/02/2021,-68,32,Google,51
+Greater London,Grocery & pharmacy,12/02/2021,-18,82,Google,58.42857143
+Greater London,Retail & recreation,13/02/2021,-69,31,Google,52.57142857
+Greater London,Grocery & pharmacy,13/02/2021,-17,83,Google,59.71428571
+Greater London,Retail & recreation,14/02/2021,-68,32,Google,53
+Greater London,Grocery & pharmacy,14/02/2021,-24,76,Google,59.28571429
+Greater London,Retail & recreation,15/02/2021,-62,38,Google,53.42857143
+Greater London,Grocery & pharmacy,15/02/2021,-20,80,Google,60.28571429
+Greater London,Retail & recreation,16/02/2021,-65,35,Google,53.57142857
+Greater London,Grocery & pharmacy,16/02/2021,-21,79,Google,60.42857143
+Greater London,Retail & recreation,17/02/2021,-66,34,Google,53.42857143
+Greater London,Grocery & pharmacy,17/02/2021,-22,78,Google,60
+Greater London,Retail & recreation,18/02/2021,-65,35,Google,54.14285714
+Greater London,Grocery & pharmacy,18/02/2021,-18,82,Google,60.42857143
+Greater London,Retail & recreation,19/02/2021,-66,34,Google,53.85714286
+Greater London,Grocery & pharmacy,19/02/2021,-16,84,Google,60.85714286
+Greater London,Retail & recreation,20/02/2021,-65,35,Google,54.57142857
+Greater London,Grocery & pharmacy,20/02/2021,-16,84,Google,61.71428571
+Greater London,Retail & recreation,21/02/2021,-65,35,Google,55.57142857
+Greater London,Grocery & pharmacy,21/02/2021,-23,77,Google,61.57142857
+Greater London,Retail & recreation,22/02/2021,-63,37,Google,55.14285714
+Greater London,Grocery & pharmacy,22/02/2021,-22,78,Google,61.42857143
+Greater London,Retail & recreation,23/02/2021,-62,38,Google,54.85714286
+Greater London,Grocery & pharmacy,23/02/2021,-18,82,Google,61.57142857
+Greater London,Retail & recreation,24/02/2021,-64,36,Google,54.71428571
+Greater London,Grocery & pharmacy,24/02/2021,-18,82,Google,61.42857143
+Greater London,Retail & recreation,25/02/2021,-65,35,Google,55.42857143
+Greater London,Grocery & pharmacy,25/02/2021,-17,83,Google,62
+Greater London,Retail & recreation,26/02/2021,-62,38,Google,56.28571429
+Greater London,Grocery & pharmacy,26/02/2021,-9,91,Google,63.85714286
+Greater London,Retail & recreation,27/02/2021,-63,37,Google,57.42857143
+Greater London,Grocery & pharmacy,27/02/2021,-12,88,Google,64.85714286
+Greater London,Retail & recreation,28/02/2021,-64,36,Google,58.28571429
+Greater London,Grocery & pharmacy,28/02/2021,-20,80,Google,64.71428571
+Greater London,Retail & recreation,01/03/2021,-60,40,Google,58.57142857
+Greater London,Grocery & pharmacy,01/03/2021,-16,84,Google,65.14285714
+Greater London,Retail & recreation,02/03/2021,-63,37,Google,57.42857143
+Greater London,Grocery & pharmacy,02/03/2021,-18,82,Google,63.85714286
+Greater London,Retail & recreation,03/03/2021,-66,34,Google,56.14285714
+Greater London,Grocery & pharmacy,03/03/2021,-22,78,Google,62.14285714
+Greater London,Retail & recreation,04/03/2021,-65,35,Google,55.71428571
+Greater London,Grocery & pharmacy,04/03/2021,-16,84,Google,62
+Greater London,Retail & recreation,05/03/2021,-64,36,Google,55.14285714
+Greater London,Grocery & pharmacy,05/03/2021,-11,89,Google,62.57142857
+Greater London,Retail & recreation,06/03/2021,-65,35,Google,55.85714286
+Greater London,Grocery & pharmacy,06/03/2021,-14,86,Google,63.28571429
+Greater London,Retail & recreation,07/03/2021,-63,37,Google,57.42857143
+Greater London,Grocery & pharmacy,07/03/2021,-17,83,Google,64.28571429
+Greater London,Retail & recreation,08/03/2021,-58,42,Google,58.28571429
+Greater London,Grocery & pharmacy,08/03/2021,-11,89,Google,65.85714286
+Greater London,Retail & recreation,09/03/2021,-59,41,Google,59
+Greater London,Grocery & pharmacy,09/03/2021,-12,88,Google,66.57142857
+Greater London,Retail & recreation,10/03/2021,-67,33,Google,59
+Greater London,Grocery & pharmacy,10/03/2021,-20,80,Google,65.14285714
+Greater London,Retail & recreation,11/03/2021,-63,37,Google,58.57142857
+Greater London,Grocery & pharmacy,11/03/2021,-11,89,Google,65.28571429
+Greater London,Retail & recreation,12/03/2021,-64,36,Google,57.71428571
+Greater London,Grocery & pharmacy,12/03/2021,-7,93,Google,65.14285714
+Greater London,Retail & recreation,13/03/2021,-65,35,Google,57.57142857
+Greater London,Grocery & pharmacy,13/03/2021,-9,91,Google,65.85714286
+Greater London,Retail & recreation,14/03/2021,-64,36,Google,59.57142857
+Greater London,Grocery & pharmacy,14/03/2021,-15,85,Google,66.42857143
+Greater London,Retail & recreation,15/03/2021,-59,41,Google,59.57142857
+Greater London,Grocery & pharmacy,15/03/2021,-14,86,Google,66.71428571
+Greater London,Retail & recreation,16/03/2021,-62,38,Google,58.85714286
+Greater London,Grocery & pharmacy,16/03/2021,-14,86,Google,66.14285714
+Greater London,Retail & recreation,17/03/2021,-63,37,Google,58.42857143
+Greater London,Grocery & pharmacy,17/03/2021,-13,87,Google,65.71428571
+Greater London,Retail & recreation,18/03/2021,-64,36,Google,58.71428571
+Greater London,Grocery & pharmacy,18/03/2021,-12,88,Google,65.42857143
+Greater London,Retail & recreation,19/03/2021,-61,39,Google,58.71428571
+Greater London,Grocery & pharmacy,19/03/2021,-5,95,Google,66.85714286
+Greater London,Retail & recreation,20/03/2021,-65,35,Google,59.57142857
+Greater London,Grocery & pharmacy,20/03/2021,-13,87,Google,66.71428571
+Greater London,Retail & recreation,21/03/2021,-63,37,Google,59.57142857
+Greater London,Grocery & pharmacy,21/03/2021,-16,84,Google,66.42857143
+Greater London,Retail & recreation,22/03/2021,-56,44,Google,60.14285714
+Greater London,Grocery & pharmacy,22/03/2021,-8,92,Google,67.71428571
+Greater London,Retail & recreation,23/03/2021,-60,40,Google,59.85714286
+Greater London,Grocery & pharmacy,23/03/2021,-11,89,Google,67.57142857
+Greater London,Retail & recreation,24/03/2021,-61,39,Google,60.71428571
+Greater London,Grocery & pharmacy,24/03/2021,-11,89,Google,68.14285714
+Greater London,Retail & recreation,25/03/2021,-62,38,Google,61.57142857
+Greater London,Grocery & pharmacy,25/03/2021,-9,91,Google,68.28571429
+Greater London,Retail & recreation,26/03/2021,-64,36,Google,60.28571429
+Greater London,Grocery & pharmacy,26/03/2021,-8,92,Google,67.71428571
+Greater London,Retail & recreation,27/03/2021,-62,38,Google,60.42857143
+Greater London,Grocery & pharmacy,27/03/2021,-9,91,Google,67.85714286
+Greater London,Retail & recreation,28/03/2021,-66,34,Google,60
+Greater London,Grocery & pharmacy,28/03/2021,-20,80,Google,66
+Greater London,Retail & recreation,29/03/2021,-53,47,Google,59.71428571
+Greater London,Grocery & pharmacy,29/03/2021,-5,95,Google,68.14285714
+Greater London,Retail & recreation,30/03/2021,-55,45,Google,61.42857143
+Greater London,Grocery & pharmacy,30/03/2021,-4,96,Google,69.71428571
+Greater London,Retail & recreation,31/03/2021,-57,43,Google,62.85714286
+Greater London,Grocery & pharmacy,31/03/2021,-4,96,Google,71.71428571
+Greater London,Retail & recreation,01/04/2021,-54,46,Google,66.85714286
+Greater London,Grocery & pharmacy,01/04/2021,6,106,Google,75.28571429
+Greater London,Retail & recreation,02/04/2021,-62,38,Google,67.14285714
+Greater London,Grocery & pharmacy,02/04/2021,-6,94,Google,74.14285714
+Greater London,Retail & recreation,03/04/2021,-65,35,Google,65.42857143
+Greater London,Grocery & pharmacy,03/04/2021,-7,93,Google,72.57142857
+Greater London,Retail & recreation,04/04/2021,-69,31,Google,63.28571429
+Greater London,Grocery & pharmacy,04/04/2021,-36,64,Google,65.85714286
+Greater London,Retail & recreation,05/04/2021,-61,39,Google,56.28571429
+Greater London,Grocery & pharmacy,05/04/2021,-18,82,Google,62.57142857
+Greater London,Retail & recreation,06/04/2021,-59,41,Google,55
+Greater London,Grocery & pharmacy,06/04/2021,-10,90,Google,62.85714286
+Greater London,Retail & recreation,07/04/2021,-60,40,Google,55.28571429
+Greater London,Grocery & pharmacy,07/04/2021,-12,88,Google,63.42857143
+Greater London,Retail & recreation,08/04/2021,-59,41,Google,60.14285714
+Greater London,Grocery & pharmacy,08/04/2021,-10,90,Google,67.42857143
+Greater London,Retail & recreation,09/04/2021,-61,39,Google,61.28571429
+Greater London,Grocery & pharmacy,09/04/2021,-7,93,Google,68.71428571
+Greater London,Retail & recreation,10/04/2021,-66,34,Google,60.71428571
+Greater London,Grocery & pharmacy,10/04/2021,-13,87,Google,67.42857143
+Greater London,Retail & recreation,11/04/2021,-61,39,Google,60.42857143
+Greater London,Grocery & pharmacy,11/04/2021,-15,85,Google,66.71428571
+Greater London,Retail & recreation,12/04/2021,-34,66,Google,63.28571429
+Greater London,Grocery & pharmacy,12/04/2021,-5,95,Google,71.28571429
+Greater London,Retail & recreation,13/04/2021,-42,58,Google,66.28571429
+Greater London,Grocery & pharmacy,13/04/2021,-7,93,Google,74.71428571
+Greater London,Retail & recreation,14/04/2021,-43,57,Google,70.42857143
+Greater London,Grocery & pharmacy,14/04/2021,-6,94,Google,78.28571429
+Greater London,Retail & recreation,15/04/2021,-45,55,Google,74
+Greater London,Grocery & pharmacy,15/04/2021,-7,93,Google,77.85714286
+Greater London,Retail & recreation,16/04/2021,-45,55,Google,72.14285714
+Greater London,Grocery & pharmacy,16/04/2021,-3,97,Google,77.71428571
+Greater London,Retail & recreation,17/04/2021,-46,54,Google,72.14285714
+Greater London,Grocery & pharmacy,17/04/2021,-6,94,Google,77.42857143
+Greater London,Retail & recreation,18/04/2021,-43,57,Google,72.14285714
+Greater London,Grocery & pharmacy,18/04/2021,-8,92,Google,77.42857143
+Greater London,Retail & recreation,19/04/2021,-40,60,Google,72.71428571
+Greater London,Grocery & pharmacy,19/04/2021,-3,97,Google,78.71428571
+Greater London,Retail & recreation,20/04/2021,-44,56,Google,72.85714286
+Greater London,Grocery & pharmacy,20/04/2021,-5,95,Google,78.71428571
+Greater London,Retail & recreation,21/04/2021,-45,55,Google,73.14285714
+Greater London,Grocery & pharmacy,21/04/2021,-6,94,Google,78.42857143
+Greater London,Retail & recreation,22/04/2021,-43,57,Google,73.42857143
+Greater London,Grocery & pharmacy,22/04/2021,-3,97,Google,78.71428571
+Greater London,Retail & recreation,23/04/2021,-44,56,Google,72.85714286
+Greater London,Grocery & pharmacy,23/04/2021,0,100,Google,79.14285714
+Greater London,Retail & recreation,24/04/2021,-44,56,Google,73.57142857
+Greater London,Grocery & pharmacy,24/04/2021,-4,96,Google,79.42857143
+Greater London,Retail & recreation,25/04/2021,-43,57,Google,74.14285714
+Greater London,Grocery & pharmacy,25/04/2021,-10,90,Google,78.85714286
+Greater London,Retail & recreation,26/04/2021,-41,59,Google,73.42857143
+Greater London,Grocery & pharmacy,26/04/2021,-4,96,Google,79.14285714
+Greater London,Retail & recreation,27/04/2021,-43,57,Google,73
+Greater London,Grocery & pharmacy,27/04/2021,-6,94,Google,78.42857143
+Greater London,Retail & recreation,28/04/2021,-49,51,Google,72
+Greater London,Grocery & pharmacy,28/04/2021,-9,91,Google,76.85714286
+Greater London,Retail & recreation,29/04/2021,-44,56,Google,72
+Greater London,Grocery & pharmacy,29/04/2021,-2,98,Google,77.57142857
+Greater London,Retail & recreation,30/04/2021,-43,57,Google,72
+Greater London,Grocery & pharmacy,30/04/2021,2,102,Google,78.42857143
+Greater London,Retail & recreation,01/05/2021,-44,56,Google,73
+Greater London,Grocery & pharmacy,01/05/2021,-4,96,Google,79.42857143
+Greater London,Retail & recreation,02/05/2021,-42,58,Google,74.71428571
+Greater London,Grocery & pharmacy,02/05/2021,-11,89,Google,79.42857143
+Greater London,Retail & recreation,03/05/2021,-40,60,Google,74
+Greater London,Grocery & pharmacy,03/05/2021,-16,84,Google,77.85714286
+Greater London,Retail & recreation,04/05/2021,-47,53,Google,70.85714286
+Greater London,Grocery & pharmacy,04/05/2021,-5,95,Google,76.42857143
+Greater London,Retail & recreation,05/05/2021,-47,53,Google,70.28571429
+Greater London,Grocery & pharmacy,05/05/2021,-7,93,Google,75.28571429
+Greater London,Retail & recreation,06/05/2021,-43,57,Google,70.71428571
+Greater London,Grocery & pharmacy,06/05/2021,0,100,Google,76.42857143
+Greater London,Retail & recreation,07/05/2021,-44,56,Google,72.42857143
+Greater London,Grocery & pharmacy,07/05/2021,-2,98,Google,78.85714286
+Greater London,Retail & recreation,08/05/2021,-51,49,Google,72.28571429
+Greater London,Grocery & pharmacy,08/05/2021,-10,90,Google,77.57142857
+Greater London,Retail & recreation,09/05/2021,-40,60,Google,72.85714286
+Greater London,Grocery & pharmacy,09/05/2021,-9,91,Google,77.71428571
+Greater London,Retail & recreation,10/05/2021,-40,60,Google,72
+Greater London,Grocery & pharmacy,10/05/2021,-4,96,Google,77.71428571
+Greater London,Retail & recreation,11/05/2021,-41,59,Google,72.14285714
+Greater London,Grocery & pharmacy,11/05/2021,-4,96,Google,78.85714286
+Greater London,Retail & recreation,12/05/2021,-40,60,Google,74.57142857
+Greater London,Grocery & pharmacy,12/05/2021,-1,99,Google,80.14285714
+Greater London,Retail & recreation,13/05/2021,-46,54,Google,74.85714286
+Greater London,Grocery & pharmacy,13/05/2021,-6,94,Google,79.71428571
+Greater London,Retail & recreation,14/05/2021,-44,56,Google,74
+Greater London,Grocery & pharmacy,14/05/2021,-1,99,Google,79.71428571
+Greater London,Retail & recreation,15/05/2021,-45,55,Google,73.85714286
+Greater London,Grocery & pharmacy,15/05/2021,-6,94,Google,78.71428571
+Greater London,Retail & recreation,16/05/2021,-45,55,Google,72.42857143
+Greater London,Grocery & pharmacy,16/05/2021,-12,88,Google,77.28571429
+Greater London,Retail & recreation,17/05/2021,-36,64,Google,73
+Greater London,Grocery & pharmacy,17/05/2021,-8,92,Google,78.14285714
+Greater London,Retail & recreation,18/05/2021,-37,63,Google,73
+Greater London,Grocery & pharmacy,18/05/2021,-5,95,Google,78.71428571
+Greater London,Retail & recreation,19/05/2021,-37,63,Google,74.28571429
+Greater London,Grocery & pharmacy,19/05/2021,-4,96,Google,80.14285714
+Greater London,Retail & recreation,20/05/2021,-38,62,Google,76.42857143
+Greater London,Grocery & pharmacy,20/05/2021,-3,97,Google,81.14285714
+Greater London,Retail & recreation,21/05/2021,-41,59,Google,76.42857143
+Greater London,Grocery & pharmacy,21/05/2021,-4,96,Google,81.14285714
+Greater London,Retail & recreation,22/05/2021,-37,63,Google,76.57142857
+Greater London,Grocery & pharmacy,22/05/2021,-5,95,Google,81.14285714
+Greater London,Retail & recreation,23/05/2021,-37,63,Google,76.42857143
+Greater London,Grocery & pharmacy,23/05/2021,-13,87,Google,80
+Greater London,Retail & recreation,24/05/2021,-37,63,Google,75.14285714
+Greater London,Grocery & pharmacy,24/05/2021,-5,95,Google,80.28571429
+Greater London,Retail & recreation,25/05/2021,-37,63,Google,75.57142857
+Greater London,Grocery & pharmacy,25/05/2021,-3,97,Google,80.42857143
+Greater London,Retail & recreation,26/05/2021,-36,64,Google,76
+Greater London,Grocery & pharmacy,26/05/2021,-2,98,Google,81
+Greater London,Retail & recreation,27/05/2021,-30,70,Google,78.57142857
+Greater London,Grocery & pharmacy,27/05/2021,1,101,Google,84
+Greater London,Retail & recreation,28/05/2021,-32,68,Google,80.14285714
+Greater London,Grocery & pharmacy,28/05/2021,3,103,Google,85.85714286
+Greater London,Retail & recreation,29/05/2021,-33,67,Google,81.57142857
+Greater London,Grocery & pharmacy,29/05/2021,-3,97,Google,86.28571429
+Greater London,Retail & recreation,30/05/2021,-25,75,Google,83
+Greater London,Grocery & pharmacy,30/05/2021,-6,94,Google,86.42857143
+Greater London,Retail & recreation,31/05/2021,-21,79,Google,83.28571429
+Greater London,Grocery & pharmacy,31/05/2021,-7,93,Google,86.85714286
+Greater London,Retail & recreation,01/06/2021,-28,72,Google,82.42857143
+Greater London,Grocery & pharmacy,01/06/2021,3,103,Google,87.57142857
+Greater London,Retail & recreation,02/06/2021,-30,70,Google,83.71428571
+Greater London,Grocery & pharmacy,02/06/2021,0,100,Google,87.28571429
+Greater London,Retail & recreation,03/06/2021,-28,72,Google,84.14285714
+Greater London,Grocery & pharmacy,03/06/2021,2,102,Google,87.42857143
+Greater London,Retail & recreation,04/06/2021,-39,61,Google,82.85714286
+Greater London,Grocery & pharmacy,04/06/2021,-8,92,Google,85.71428571
+Greater London,Retail & recreation,05/06/2021,-33,67,Google,80.57142857
+Greater London,Grocery & pharmacy,05/06/2021,-1,99,Google,84.71428571
+Greater London,Retail & recreation,06/06/2021,-31,69,Google,80.28571429
+Greater London,Grocery & pharmacy,06/06/2021,-7,93,Google,83.28571429
+Greater London,Retail & recreation,07/06/2021,-28,72,Google,79
+Greater London,Grocery & pharmacy,07/06/2021,4,104,Google,85.14285714
+Greater London,Retail & recreation,08/06/2021,-30,70,Google,82
+Greater London,Grocery & pharmacy,08/06/2021,3,103,Google,87.14285714
+Greater London,Retail & recreation,09/06/2021,-30,70,Google,83
+Greater London,Grocery & pharmacy,09/06/2021,4,104,Google,88
+Greater London,Retail & recreation,10/06/2021,-30,70,Google,84.71428571
+Greater London,Grocery & pharmacy,10/06/2021,4,104,Google,89.28571429
+Greater London,Retail & recreation,11/06/2021,-32,68,Google,84.14285714
+Greater London,Grocery & pharmacy,11/06/2021,4,104,Google,89
+Greater London,Retail & recreation,12/06/2021,-34,66,Google,83.71428571
+Greater London,Grocery & pharmacy,12/06/2021,0,100,Google,88
+Greater London,Retail & recreation,13/06/2021,-33,67,Google,82.71428571
+Greater London,Grocery & pharmacy,13/06/2021,-5,95,Google,86.28571429
+Greater London,Retail & recreation,14/06/2021,-30,70,Google,81.42857143
+Greater London,Grocery & pharmacy,14/06/2021,4,104,Google,86.57142857
+Greater London,Retail & recreation,15/06/2021,-31,69,Google,81.57142857
+Greater London,Grocery & pharmacy,15/06/2021,3,103,Google,86.85714286
+Greater London,Retail & recreation,16/06/2021,-32,68,Google,82.28571429
+Greater London,Grocery & pharmacy,16/06/2021,1,101,Google,87.14285714
+Greater London,Retail & recreation,17/06/2021,-35,65,Google,82.85714286
+Greater London,Grocery & pharmacy,17/06/2021,-2,98,Google,86.85714286
+Greater London,Retail & recreation,18/06/2021,-40,60,Google,80.57142857
+Greater London,Grocery & pharmacy,18/06/2021,-6,94,Google,84.14285714
+Greater London,Retail & recreation,19/06/2021,-35,65,Google,78.71428571
+Greater London,Grocery & pharmacy,19/06/2021,-5,95,Google,82.57142857
+Greater London,Retail & recreation,20/06/2021,-29,71,Google,78.28571429
+Greater London,Grocery & pharmacy,20/06/2021,-10,90,Google,81.85714286
+Greater London,Retail & recreation,21/06/2021,-35,65,Google,77.14285714
+Greater London,Grocery & pharmacy,21/06/2021,-7,93,Google,81.85714286
+Greater London,Retail & recreation,22/06/2021,-31,69,Google,78.28571429
+Greater London,Grocery & pharmacy,22/06/2021,-2,98,Google,83
+Greater London,Retail & recreation,23/06/2021,-30,70,Google,79.42857143
+Greater London,Grocery & pharmacy,23/06/2021,-1,99,Google,83.42857143
+Greater London,Retail & recreation,24/06/2021,-30,70,Google,80.57142857
+Greater London,Grocery & pharmacy,24/06/2021,0,100,Google,85.57142857
+Greater London,Retail & recreation,25/06/2021,-31,69,Google,82.14285714
+Greater London,Grocery & pharmacy,25/06/2021,1,101,Google,86.71428571
+Greater London,Retail & recreation,26/06/2021,-31,69,Google,82.57142857
+Greater London,Grocery & pharmacy,26/06/2021,-5,95,Google,86.14285714
+Greater London,Retail & recreation,27/06/2021,-32,68,Google,81.71428571
+Greater London,Grocery & pharmacy,27/06/2021,-11,89,Google,84.42857143
+Greater London,Retail & recreation,28/06/2021,-30,70,Google,80.14285714
+Greater London,Grocery & pharmacy,28/06/2021,-2,98,Google,84.28571429
+Greater London,Retail & recreation,29/06/2021,-34,66,Google,79.28571429
+Greater London,Grocery & pharmacy,29/06/2021,-8,92,Google,82.57142857
+Greater London,Retail & recreation,30/06/2021,-32,68,Google,78.71428571
+Greater London,Grocery & pharmacy,30/06/2021,-2,98,Google,83
+Greater London,Retail & recreation,01/07/2021,-29,71,Google,80.42857143
+Greater London,Grocery & pharmacy,01/07/2021,1,101,Google,84.85714286
+Greater London,Retail & recreation,02/07/2021,-32,68,Google,80.57142857
+Greater London,Grocery & pharmacy,02/07/2021,1,101,Google,85.57142857
+Greater London,Retail & recreation,03/07/2021,-35,65,Google,81.71428571
+Greater London,Grocery & pharmacy,03/07/2021,-6,94,Google,85.42857143
+Greater London,Retail & recreation,04/07/2021,-30,70,Google,81.42857143
+Greater London,Grocery & pharmacy,04/07/2021,-10,90,Google,84.14285714
+Greater London,Retail & recreation,05/07/2021,-28,72,Google,80
+Greater London,Grocery & pharmacy,05/07/2021,-1,99,Google,84.42857143
+Greater London,Retail & recreation,06/07/2021,-33,67,Google,79.57142857
+Greater London,Grocery & pharmacy,06/07/2021,-6,94,Google,83.71428571
+Greater London,Retail & recreation,07/07/2021,-29,71,Google,80.42857143
+Greater London,Grocery & pharmacy,07/07/2021,0,100,Google,84.71428571
+Greater London,Retail & recreation,08/07/2021,-31,69,Google,81.71428571
+Greater London,Grocery & pharmacy,08/07/2021,-1,99,Google,85.57142857
+Greater London,Retail & recreation,09/07/2021,-32,68,Google,81.14285714
+Greater London,Grocery & pharmacy,09/07/2021,1,101,Google,86
+Greater London,Retail & recreation,10/07/2021,-33,67,Google,82.14285714
+Greater London,Grocery & pharmacy,10/07/2021,-5,95,Google,85.57142857
+Greater London,Retail & recreation,11/07/2021,-25,75,Google,82
+Greater London,Grocery & pharmacy,11/07/2021,-4,96,Google,85.85714286
+Greater London,Retail & recreation,12/07/2021,-34,66,Google,81.14285714
+Greater London,Grocery & pharmacy,12/07/2021,-8,92,Google,84.57142857
+Greater London,Retail & recreation,13/07/2021,-31,69,Google,80
+Greater London,Grocery & pharmacy,13/07/2021,0,100,Google,84.71428571
+Greater London,Retail & recreation,14/07/2021,-30,70,Google,81.14285714
+Greater London,Grocery & pharmacy,14/07/2021,-1,99,Google,84.57142857
+Greater London,Retail & recreation,15/07/2021,-30,70,Google,80.85714286
+Greater London,Grocery & pharmacy,15/07/2021,0,100,Google,85.71428571
+Greater London,Retail & recreation,16/07/2021,-30,70,Google,82.57142857
+Greater London,Grocery & pharmacy,16/07/2021,3,103,Google,87.42857143
+Greater London,Retail & recreation,17/07/2021,-34,66,Google,82.57142857
+Greater London,Grocery & pharmacy,17/07/2021,-4,96,Google,86.28571429
+Greater London,Retail & recreation,18/07/2021,-33,67,Google,81.71428571
+Greater London,Grocery & pharmacy,18/07/2021,-7,93,Google,85
+Greater London,Retail & recreation,19/07/2021,-26,74,Google,81.28571429
+Greater London,Grocery & pharmacy,19/07/2021,4,104,Google,86.14285714
+Greater London,Retail & recreation,20/07/2021,-31,69,Google,81.28571429
+Greater London,Grocery & pharmacy,20/07/2021,-1,99,Google,86
+Greater London,Retail & recreation,21/07/2021,-29,71,Google,82.42857143
+Greater London,Grocery & pharmacy,21/07/2021,1,101,Google,87.28571429
+Greater London,Retail & recreation,22/07/2021,-28,72,Google,84.28571429
+Greater London,Grocery & pharmacy,22/07/2021,2,102,Google,88.28571429
+Greater London,Retail & recreation,23/07/2021,-30,70,Google,83.42857143
+Greater London,Grocery & pharmacy,23/07/2021,-1,99,Google,87.71428571
+Greater London,Retail & recreation,24/07/2021,-35,65,Google,82.85714286
+Greater London,Grocery & pharmacy,24/07/2021,-11,89,Google,85.42857143
+Greater London,Retail & recreation,25/07/2021,-35,65,Google,80.28571429
+Greater London,Grocery & pharmacy,25/07/2021,-19,81,Google,81.57142857
+Greater London,Retail & recreation,26/07/2021,-25,75,Google,77.71428571
+Greater London,Grocery & pharmacy,26/07/2021,-1,99,Google,81.85714286
+Greater London,Retail & recreation,27/07/2021,-29,71,Google,77.85714286
+Greater London,Grocery & pharmacy,27/07/2021,-6,94,Google,82
+Greater London,Retail & recreation,28/07/2021,-32,68,Google,79
+Greater London,Grocery & pharmacy,28/07/2021,-10,90,Google,82.57142857
+Greater London,Retail & recreation,29/07/2021,-25,75,Google,81.71428571
+Greater London,Grocery & pharmacy,29/07/2021,-1,99,Google,85.14285714
+Greater London,Retail & recreation,30/07/2021,-33,67,Google,80.57142857
+Greater London,Grocery & pharmacy,30/07/2021,-7,93,Google,83.71428571
+Greater London,Retail & recreation,31/07/2021,-33,67,Google,79.85714286
+Greater London,Grocery & pharmacy,31/07/2021,-11,89,Google,82.85714286
+Greater London,Retail & recreation,01/08/2021,-27,73,Google,80.42857143
+Greater London,Grocery & pharmacy,01/08/2021,-13,87,Google,82.14285714
+Greater London,Retail & recreation,02/08/2021,-24,76,Google,78.85714286
+Greater London,Grocery & pharmacy,02/08/2021,-4,96,Google,83
+Greater London,Retail & recreation,03/08/2021,-27,73,Google,80.14285714
+Greater London,Grocery & pharmacy,03/08/2021,-6,94,Google,84
+Greater London,Retail & recreation,04/08/2021,-26,74,Google,81.85714286
+Greater London,Grocery & pharmacy,04/08/2021,-5,95,Google,85
+Greater London,Retail & recreation,05/08/2021,-29,71,Google,82.71428571
+Greater London,Grocery & pharmacy,05/08/2021,-7,93,Google,85.14285714
+Greater London,Retail & recreation,06/08/2021,-33,67,Google,81
+Greater London,Grocery & pharmacy,06/08/2021,-7,93,Google,83.85714286
+Greater London,Retail & recreation,07/08/2021,-35,65,Google,79.71428571
+Greater London,Grocery & pharmacy,07/08/2021,-15,85,Google,81.28571429
+Greater London,Retail & recreation,08/08/2021,-31,69,Google,77.57142857
+Greater London,Grocery & pharmacy,08/08/2021,-16,84,Google,79.42857143
+Greater London,Retail & recreation,09/08/2021,-28,72,Google,76.42857143
+Greater London,Grocery & pharmacy,09/08/2021,-9,91,Google,79.85714286
+Greater London,Retail & recreation,10/08/2021,-24,76,Google,77.42857143
+Greater London,Grocery & pharmacy,10/08/2021,-4,96,Google,81.85714286
+Greater London,Retail & recreation,11/08/2021,-25,75,Google,80.42857143
+Greater London,Grocery & pharmacy,11/08/2021,-5,95,Google,84.14285714
+Greater London,Retail & recreation,12/08/2021,-27,73,Google,82.57142857
+Greater London,Grocery & pharmacy,12/08/2021,-5,95,Google,85.85714286
+Greater London,Retail & recreation,13/08/2021,-31,69,Google,82.71428571
+Greater London,Grocery & pharmacy,13/08/2021,-5,95,Google,85.42857143
+Greater London,Retail & recreation,14/08/2021,-32,68,Google,81.42857143
+Greater London,Grocery & pharmacy,14/08/2021,-11,89,Google,83.42857143
+Greater London,Retail & recreation,15/08/2021,-27,73,Google,80.28571429
+Greater London,Grocery & pharmacy,15/08/2021,-13,87,Google,82.28571429
+Greater London,Retail & recreation,16/08/2021,-25,75,Google,79.42857143
+Greater London,Grocery & pharmacy,16/08/2021,-5,95,Google,83.14285714
+Greater London,Retail & recreation,17/08/2021,-28,72,Google,79.85714286
+Greater London,Grocery & pharmacy,17/08/2021,-8,92,Google,83.28571429
+Greater London,Retail & recreation,18/08/2021,-27,73,Google,81
+Greater London,Grocery & pharmacy,18/08/2021,-6,94,Google,84
+Greater London,Retail & recreation,19/08/2021,-26,74,Google,82.14285714
+Greater London,Grocery & pharmacy,19/08/2021,-5,95,Google,85
+Greater London,Retail & recreation,20/08/2021,-30,70,Google,81.42857143
+Greater London,Grocery & pharmacy,20/08/2021,-6,94,Google,84.57142857
+Greater London,Retail & recreation,21/08/2021,-34,66,Google,80.85714286
+Greater London,Grocery & pharmacy,21/08/2021,-13,87,Google,82.85714286
+Greater London,Retail & recreation,22/08/2021,-28,72,Google,79.71428571
+Greater London,Grocery & pharmacy,22/08/2021,-15,85,Google,81.28571429
+Greater London,Retail & recreation,23/08/2021,-22,78,Google,78.85714286
+Greater London,Grocery & pharmacy,23/08/2021,-5,95,Google,82.42857143
+Greater London,Retail & recreation,24/08/2021,-24,76,Google,79.85714286
+Greater London,Grocery & pharmacy,24/08/2021,-6,94,Google,83.85714286
+Greater London,Retail & recreation,25/08/2021,-24,76,Google,82.28571429
+Greater London,Grocery & pharmacy,25/08/2021,-5,95,Google,85.57142857
+Greater London,Retail & recreation,26/08/2021,-24,76,Google,84.28571429
+Greater London,Grocery & pharmacy,26/08/2021,-5,95,Google,86.71428571
+Greater London,Retail & recreation,27/08/2021,-27,73,Google,83.57142857
+Greater London,Grocery & pharmacy,27/08/2021,-3,97,Google,86.57142857
+Greater London,Retail & recreation,28/08/2021,-31,69,Google,83
+Greater London,Grocery & pharmacy,28/08/2021,-11,89,Google,84.85714286
+Greater London,Retail & recreation,29/08/2021,-22,78,Google,82.42857143
+Greater London,Grocery & pharmacy,29/08/2021,-13,87,Google,84
+Greater London,Retail & recreation,30/08/2021,-21,79,Google,81.71428571
+Greater London,Grocery & pharmacy,30/08/2021,-14,86,Google,83.57142857
+Greater London,Retail & recreation,31/08/2021,-25,75,Google,80.42857143
+Greater London,Grocery & pharmacy,31/08/2021,-1,99,Google,84.71428571
+Greater London,Retail & recreation,01/09/2021,-26,74,Google,82.57142857
+Greater London,Grocery & pharmacy,01/09/2021,-2,98,Google,85.42857143
+Greater London,Retail & recreation,02/09/2021,-24,76,Google,83.85714286
+Greater London,Grocery & pharmacy,02/09/2021,0,100,Google,86.85714286
+Greater London,Retail & recreation,03/09/2021,-27,73,Google,85
+Greater London,Grocery & pharmacy,03/09/2021,-1,99,Google,88.42857143
+Greater London,Retail & recreation,04/09/2021,-28,72,Google,84.57142857
+Greater London,Grocery & pharmacy,04/09/2021,-6,94,Google,87.42857143
+Greater London,Retail & recreation,05/09/2021,-19,81,Google,85
+Greater London,Grocery & pharmacy,05/09/2021,-5,95,Google,87.71428571
+Greater London,Retail & recreation,06/09/2021,-20,80,Google,84.85714286
+Greater London,Grocery & pharmacy,06/09/2021,3,103,Google,89.14285714
+Greater London,Retail & recreation,07/09/2021,-24,76,Google,85.85714286
+Greater London,Grocery & pharmacy,07/09/2021,0,100,Google,89.85714286
+Greater London,Retail & recreation,08/09/2021,-25,75,Google,87.14285714
+Greater London,Grocery & pharmacy,08/09/2021,0,100,Google,89.85714286
+Greater London,Retail & recreation,09/09/2021,-26,74,Google,86.85714286
+Greater London,Grocery & pharmacy,09/09/2021,0,100,Google,89.71428571
+Greater London,Retail & recreation,10/09/2021,-28,72,Google,85.28571429
+Greater London,Grocery & pharmacy,10/09/2021,-2,98,Google,88.42857143
+Greater London,Retail & recreation,11/09/2021,-25,75,Google,84.85714286
+Greater London,Grocery & pharmacy,11/09/2021,-5,95,Google,87.71428571
+Greater London,Retail & recreation,12/09/2021,-22,78,Google,84.57142857
+Greater London,Grocery & pharmacy,12/09/2021,-6,94,Google,87.42857143
+Greater London,Retail & recreation,13/09/2021,-22,78,Google,84.28571429
+Greater London,Grocery & pharmacy,13/09/2021,2,102,Google,88.57142857
+Greater London,Retail & recreation,14/09/2021,-30,70,Google,84.57142857
+Greater London,Grocery & pharmacy,14/09/2021,-7,93,Google,87.14285714
+Greater London,Retail & recreation,15/09/2021,-24,76,Google,84.42857143
+Greater London,Grocery & pharmacy,15/09/2021,1,101,Google,87.71428571
+Greater London,Retail & recreation,16/09/2021,-23,77,Google,85.28571429
+Greater London,Grocery & pharmacy,16/09/2021,0,100,Google,88.42857143
+Greater London,Retail & recreation,17/09/2021,-26,74,Google,84.42857143
+Greater London,Grocery & pharmacy,17/09/2021,0,100,Google,88.71428571
+Greater London,Retail & recreation,18/09/2021,-25,75,Google,86.14285714
+Greater London,Grocery & pharmacy,18/09/2021,-5,95,Google,88.85714286
+Greater London,Retail & recreation,19/09/2021,-23,77,Google,85.42857143
+Greater London,Grocery & pharmacy,19/09/2021,-10,90,Google,87.28571429
+Greater London,Retail & recreation,20/09/2021,-22,78,Google,84.14285714
+Greater London,Grocery & pharmacy,20/09/2021,0,100,Google,87.85714286
+Greater London,Retail & recreation,21/09/2021,-23,77,Google,84.57142857
+Greater London,Grocery & pharmacy,21/09/2021,-1,99,Google,88
+London,Restaurant bookings,27/02/2020,-4,96,OpenTable,98.14285714
+London,Restaurant bookings,28/02/2020,-1,99,OpenTable,97.57142857
+London,Restaurant bookings,29/02/2020,-4,96,OpenTable,97.14285714
+London,Restaurant bookings,01/03/2020,-2,98,OpenTable,97.42857143
+London,Restaurant bookings,02/03/2020,-10,90,OpenTable,96.42857143
+London,Restaurant bookings,03/03/2020,-10,90,OpenTable,95.42857143
+London,Restaurant bookings,04/03/2020,-10,90,OpenTable,94.14285714
+London,Restaurant bookings,05/03/2020,-13,87,OpenTable,92.85714286
+London,Restaurant bookings,06/03/2020,-7,93,OpenTable,92
+London,Restaurant bookings,07/03/2020,-7,93,OpenTable,91.57142857
+London,Restaurant bookings,08/03/2020,-7,93,OpenTable,90.85714286
+London,Restaurant bookings,09/03/2020,-22,78,OpenTable,89.14285714
+London,Restaurant bookings,10/03/2020,-23,77,OpenTable,87.28571429
+London,Restaurant bookings,11/03/2020,-19,81,OpenTable,86
+London,Restaurant bookings,12/03/2020,-29,71,OpenTable,83.71428571
+London,Restaurant bookings,13/03/2020,-36,64,OpenTable,79.57142857
+London,Restaurant bookings,14/03/2020,-31,69,OpenTable,76.14285714
+London,Restaurant bookings,15/03/2020,-43,57,OpenTable,71
+London,Restaurant bookings,16/03/2020,-61,39,OpenTable,65.42857143
+London,Restaurant bookings,17/03/2020,-89,11,OpenTable,56
+London,Restaurant bookings,18/03/2020,-100,0,OpenTable,44.42857143
+London,Restaurant bookings,19/03/2020,-100,0,OpenTable,34.28571429
+London,Restaurant bookings,20/03/2020,-100,0,OpenTable,25.14285714
+London,Restaurant bookings,21/03/2020,-100,0,OpenTable,15.28571429
+London,Restaurant bookings,22/03/2020,-100,0,OpenTable,7.142857143
+London,Restaurant bookings,23/03/2020,-100,0,OpenTable,1.571428571
+London,Restaurant bookings,24/03/2020,-100,0,OpenTable,0
+London,Restaurant bookings,25/03/2020,-100,0,OpenTable,0
+London,Restaurant bookings,26/03/2020,-100,0,OpenTable,0
+London,Restaurant bookings,27/03/2020,-100,0,OpenTable,0
+London,Restaurant bookings,28/03/2020,-100,0,OpenTable,0
+London,Restaurant bookings,29/03/2020,-100,0,OpenTable,0
+London,Restaurant bookings,30/03/2020,-100,0,OpenTable,0
+London,Restaurant bookings,31/03/2020,-100,0,OpenTable,0
+London,Restaurant bookings,01/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,02/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,03/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,04/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,05/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,06/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,07/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,08/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,09/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,10/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,11/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,12/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,13/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,14/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,15/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,16/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,17/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,18/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,19/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,20/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,21/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,22/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,23/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,24/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,25/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,26/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,27/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,28/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,29/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,30/04/2020,-100,0,OpenTable,0
+London,Restaurant bookings,01/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,02/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,03/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,04/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,05/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,06/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,07/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,08/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,09/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,10/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,11/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,12/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,13/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,14/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,15/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,16/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,17/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,18/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,19/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,20/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,21/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,22/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,23/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,24/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,25/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,26/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,27/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,28/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,29/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,30/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,31/05/2020,-100,0,OpenTable,0
+London,Restaurant bookings,01/06/2020,-100,0,OpenTable,0
+London,Restaurant bookings,02/06/2020,-100,0,OpenTable,0
+London,Restaurant bookings,03/06/2020,-100,0,OpenTable,0
+London,Restaurant bookings,04/06/2020,-100,0,OpenTable,0
+London,Restaurant bookings,05/06/2020,-100,0,OpenTable,0
+London,Restaurant bookings,06/06/2020,-100,0,OpenTable,0
+London,Restaurant bookings,07/06/2020,-100,0,OpenTable,0
+London,Restaurant bookings,08/06/2020,-100,0,OpenTable,0
+London,Restaurant bookings,09/06/2020,-99.3,0.7,OpenTable,0.1
+London,Restaurant bookings,10/06/2020,-99.58,0.42,OpenTable,0.16
+London,Restaurant bookings,11/06/2020,-99.2,0.8,OpenTable,0.274285714
+London,Restaurant bookings,12/06/2020,-99.61,0.39,OpenTable,0.33
+London,Restaurant bookings,13/06/2020,-99.61,0.39,OpenTable,0.385714286
+London,Restaurant bookings,14/06/2020,-99.81,0.19,OpenTable,0.412857143
+London,Restaurant bookings,15/06/2020,-99.75,0.25,OpenTable,0.448571429
+London,Restaurant bookings,16/06/2020,-99.6,0.4,OpenTable,0.405714286
+London,Restaurant bookings,17/06/2020,-99.72,0.28,OpenTable,0.385714286
+London,Restaurant bookings,18/06/2020,-99.42,0.58,OpenTable,0.354285714
+London,Restaurant bookings,19/06/2020,-99.8,0.2,OpenTable,0.327142857
+London,Restaurant bookings,20/06/2020,-99.22,0.78,OpenTable,0.382857143
+London,Restaurant bookings,21/06/2020,-99.78,0.22,OpenTable,0.387142857
+London,Restaurant bookings,22/06/2020,-99.76,0.24,OpenTable,0.385714286
+London,Restaurant bookings,23/06/2020,-99.72,0.28,OpenTable,0.368571429
+London,Restaurant bookings,24/06/2020,-99.5,0.5,OpenTable,0.4
+London,Restaurant bookings,25/06/2020,-99.61,0.39,OpenTable,0.372857143
+London,Restaurant bookings,26/06/2020,-99.73,0.27,OpenTable,0.382857143
+London,Restaurant bookings,27/06/2020,-99.49,0.51,OpenTable,0.344285714
+London,Restaurant bookings,28/06/2020,-99.84,0.16,OpenTable,0.335714286
+London,Restaurant bookings,29/06/2020,-99.95,0.05,OpenTable,0.308571429
+London,Restaurant bookings,30/06/2020,-99.84,0.16,OpenTable,0.291428571
+London,Restaurant bookings,01/07/2020,-99.77,0.23,OpenTable,0.252857143
+London,Restaurant bookings,02/07/2020,-99.72,0.28,OpenTable,0.237142857
+London,Restaurant bookings,03/07/2020,-99.81,0.19,OpenTable,0.225714286
+London,Restaurant bookings,04/07/2020,-92.25,7.75,OpenTable,1.26
+London,Restaurant bookings,05/07/2020,-75.8,24.2,OpenTable,4.694285714
+London,Restaurant bookings,06/07/2020,-83.75,16.25,OpenTable,7.008571429
+London,Restaurant bookings,07/07/2020,-84.15,15.85,OpenTable,9.25
+London,Restaurant bookings,08/07/2020,-83.3,16.7,OpenTable,11.60285714
+London,Restaurant bookings,09/07/2020,-81.59,18.41,OpenTable,14.19285714
+London,Restaurant bookings,10/07/2020,-73.23,26.77,OpenTable,17.99
+London,Restaurant bookings,11/07/2020,-67.85,32.15,OpenTable,21.47571429
+London,Restaurant bookings,12/07/2020,-67.4,32.6,OpenTable,22.67571429
+London,Restaurant bookings,13/07/2020,-82.96,17.04,OpenTable,22.78857143
+London,Restaurant bookings,14/07/2020,-82.23,17.77,OpenTable,23.06285714
+London,Restaurant bookings,15/07/2020,-77.97,22.03,OpenTable,23.82428571
+London,Restaurant bookings,16/07/2020,-76.12,23.88,OpenTable,24.60571429
+London,Restaurant bookings,17/07/2020,-65.63,34.37,OpenTable,25.69142857
+London,Restaurant bookings,18/07/2020,-60.79,39.21,OpenTable,26.7
+London,Restaurant bookings,19/07/2020,-64.26,35.74,OpenTable,27.14857143
+London,Restaurant bookings,20/07/2020,-77.65,22.35,OpenTable,27.90714286
+London,Restaurant bookings,21/07/2020,-77.78,22.22,OpenTable,28.54285714
+London,Restaurant bookings,22/07/2020,-73.43,26.57,OpenTable,29.19142857
+London,Restaurant bookings,23/07/2020,-70.96,29.04,OpenTable,29.92857143
+London,Restaurant bookings,24/07/2020,-62.82,37.18,OpenTable,30.33
+London,Restaurant bookings,25/07/2020,-57.9,42.1,OpenTable,30.74285714
+London,Restaurant bookings,26/07/2020,-58.07,41.93,OpenTable,31.62714286
+London,Restaurant bookings,27/07/2020,-76.18,23.82,OpenTable,31.83714286
+London,Restaurant bookings,28/07/2020,-72.62,27.38,OpenTable,32.57428571
+London,Restaurant bookings,29/07/2020,-70.09,29.91,OpenTable,33.05142857
+London,Restaurant bookings,30/07/2020,-65.86,34.14,OpenTable,33.78
+London,Restaurant bookings,31/07/2020,-56.9,43.1,OpenTable,34.62571429
+London,Restaurant bookings,01/08/2020,-51.66,48.34,OpenTable,35.51714286
+London,Restaurant bookings,02/08/2020,-52.98,47.02,OpenTable,36.24428571
+London,Restaurant bookings,03/08/2020,-56.84,43.16,OpenTable,39.00714286
+London,Restaurant bookings,04/08/2020,-54.65,45.35,OpenTable,41.57428571
+London,Restaurant bookings,05/08/2020,-47.48,52.52,OpenTable,44.80428571
+London,Restaurant bookings,06/08/2020,-67.3,32.7,OpenTable,44.59857143
+London,Restaurant bookings,07/08/2020,-58.45,41.55,OpenTable,44.37714286
+London,Restaurant bookings,08/08/2020,-51.78,48.22,OpenTable,44.36
+London,Restaurant bookings,09/08/2020,-55.09,44.91,OpenTable,44.05857143
+London,Restaurant bookings,10/08/2020,-39.27,60.73,OpenTable,46.56857143
+London,Restaurant bookings,11/08/2020,-40.11,59.89,OpenTable,48.64571429
+London,Restaurant bookings,12/08/2020,-34.07,65.93,OpenTable,50.56142857
+London,Restaurant bookings,13/08/2020,-67.03,32.97,OpenTable,50.6
+London,Restaurant bookings,14/08/2020,-58.86,41.14,OpenTable,50.54142857
+London,Restaurant bookings,15/08/2020,-47.45,52.55,OpenTable,51.16
+London,Restaurant bookings,16/08/2020,-50.41,49.59,OpenTable,51.82857143
+London,Restaurant bookings,17/08/2020,-25.31,74.69,OpenTable,53.82285714
+London,Restaurant bookings,18/08/2020,-26.29,73.71,OpenTable,55.79714286
+London,Restaurant bookings,19/08/2020,-26.34,73.66,OpenTable,56.90142857
+London,Restaurant bookings,20/08/2020,-54.25,45.75,OpenTable,58.72714286
+London,Restaurant bookings,21/08/2020,-49.07,50.93,OpenTable,60.12571429
+London,Restaurant bookings,22/08/2020,-31.91,68.09,OpenTable,62.34571429
+London,Restaurant bookings,23/08/2020,-43.09,56.91,OpenTable,63.39142857
+London,Restaurant bookings,24/08/2020,-6.02,93.98,OpenTable,66.14714286
+London,Restaurant bookings,25/08/2020,5.47,105.47,OpenTable,70.68428571
+London,Restaurant bookings,26/08/2020,4.2,104.2,OpenTable,75.04714286
+London,Restaurant bookings,27/08/2020,-56.26,43.74,OpenTable,74.76
+London,Restaurant bookings,28/08/2020,-48.35,51.65,OpenTable,74.86285714
+London,Restaurant bookings,29/08/2020,-36.11,63.89,OpenTable,74.26285714
+London,Restaurant bookings,30/08/2020,-21.98,78.02,OpenTable,77.27857143
+London,Restaurant bookings,31/08/2020,54.43,154.43,OpenTable,85.91428571
+London,Restaurant bookings,01/09/2020,-54.14,45.86,OpenTable,77.39857143
+London,Restaurant bookings,02/09/2020,-50.59,49.41,OpenTable,69.57142857
+London,Restaurant bookings,03/09/2020,-56.89,43.11,OpenTable,69.48142857
+London,Restaurant bookings,04/09/2020,-45.27,54.73,OpenTable,69.92142857
+London,Restaurant bookings,05/09/2020,-32.07,67.93,OpenTable,70.49857143
+London,Restaurant bookings,06/09/2020,-32.8,67.2,OpenTable,68.95285714
+London,Restaurant bookings,07/09/2020,-79.55,20.45,OpenTable,49.81285714
+London,Restaurant bookings,08/09/2020,-51.57,48.43,OpenTable,50.18
+London,Restaurant bookings,09/09/2020,-44.55,55.45,OpenTable,51.04285714
+London,Restaurant bookings,10/09/2020,-49.8,50.2,OpenTable,52.05571429
+London,Restaurant bookings,11/09/2020,-41.85,58.15,OpenTable,52.54428571
+London,Restaurant bookings,12/09/2020,-29.82,70.18,OpenTable,52.86571429
+London,Restaurant bookings,13/09/2020,-32.87,67.13,OpenTable,52.85571429
+London,Restaurant bookings,14/09/2020,-48.32,51.68,OpenTable,57.31714286
+London,Restaurant bookings,15/09/2020,-46.61,53.39,OpenTable,58.02571429
+London,Restaurant bookings,16/09/2020,-44.22,55.78,OpenTable,58.07285714
+London,Restaurant bookings,17/09/2020,-49.96,50.04,OpenTable,58.05
+London,Restaurant bookings,18/09/2020,-41.03,58.97,OpenTable,58.16714286
+London,Restaurant bookings,19/09/2020,-29.78,70.22,OpenTable,58.17285714
+London,Restaurant bookings,20/09/2020,-30.16,69.84,OpenTable,58.56
+London,Restaurant bookings,21/09/2020,-49.52,50.48,OpenTable,58.38857143
+London,Restaurant bookings,22/09/2020,-44.84,55.16,OpenTable,58.64142857
+London,Restaurant bookings,23/09/2020,-46.71,53.29,OpenTable,58.28571429
+London,Restaurant bookings,24/09/2020,-54.39,45.61,OpenTable,57.65285714
+London,Restaurant bookings,25/09/2020,-46.85,53.15,OpenTable,56.82142857
+London,Restaurant bookings,26/09/2020,-34.06,65.94,OpenTable,56.21
+London,Restaurant bookings,27/09/2020,-33.66,66.34,OpenTable,55.71
+London,Restaurant bookings,28/09/2020,-52.55,47.45,OpenTable,55.27714286
+London,Restaurant bookings,29/09/2020,-49.82,50.18,OpenTable,54.56571429
+London,Restaurant bookings,30/09/2020,-50.06,49.94,OpenTable,54.08714286
+London,Restaurant bookings,01/10/2020,-52.72,47.28,OpenTable,54.32571429
+London,Restaurant bookings,02/10/2020,-52.43,47.57,OpenTable,53.52857143
+London,Restaurant bookings,03/10/2020,-37.66,62.34,OpenTable,53.01428571
+London,Restaurant bookings,04/10/2020,-40.34,59.66,OpenTable,52.06
+London,Restaurant bookings,05/10/2020,-59.69,40.31,OpenTable,51.04
+London,Restaurant bookings,06/10/2020,-56.14,43.86,OpenTable,50.13714286
+London,Restaurant bookings,07/10/2020,-50.98,49.02,OpenTable,50.00571429
+London,Restaurant bookings,08/10/2020,-51,49,OpenTable,50.25142857
+London,Restaurant bookings,09/10/2020,-40.64,59.36,OpenTable,51.93571429
+London,Restaurant bookings,10/10/2020,-24.32,75.68,OpenTable,53.84142857
+London,Restaurant bookings,11/10/2020,-26.88,73.12,OpenTable,55.76428571
+London,Restaurant bookings,12/10/2020,-58.56,41.44,OpenTable,55.92571429
+London,Restaurant bookings,13/10/2020,-55.14,44.86,OpenTable,56.06857143
+London,Restaurant bookings,14/10/2020,-49.07,50.93,OpenTable,56.34142857
+London,Restaurant bookings,15/10/2020,-43.48,56.52,OpenTable,57.41571429
+London,Restaurant bookings,16/10/2020,-33.91,66.09,OpenTable,58.37714286
+London,Restaurant bookings,17/10/2020,-42.87,57.13,OpenTable,55.72714286
+London,Restaurant bookings,18/10/2020,-38.87,61.13,OpenTable,54.01428571
+London,Restaurant bookings,19/10/2020,-64.64,35.36,OpenTable,53.14571429
+London,Restaurant bookings,20/10/2020,-62.43,37.57,OpenTable,52.10428571
+London,Restaurant bookings,21/10/2020,-63.03,36.97,OpenTable,50.11
+London,Restaurant bookings,22/10/2020,-56.51,43.49,OpenTable,48.24857143
+London,Restaurant bookings,23/10/2020,-48.22,51.78,OpenTable,46.20428571
+London,Restaurant bookings,24/10/2020,-37.01,62.99,OpenTable,47.04142857
+London,Restaurant bookings,25/10/2020,-30.32,69.68,OpenTable,48.26285714
+London,Restaurant bookings,26/10/2020,-53.8,46.2,OpenTable,49.81142857
+London,Restaurant bookings,27/10/2020,-54.57,45.43,OpenTable,50.93428571
+London,Restaurant bookings,28/10/2020,-48.65,51.35,OpenTable,52.98857143
+London,Restaurant bookings,29/10/2020,-47.9,52.1,OpenTable,54.21857143
+London,Restaurant bookings,30/10/2020,-41.89,58.11,OpenTable,55.12285714
+London,Restaurant bookings,31/10/2020,-34.26,65.74,OpenTable,55.51571429
+London,Restaurant bookings,01/11/2020,-18.59,81.41,OpenTable,57.19142857
+London,Restaurant bookings,02/11/2020,-29.54,70.46,OpenTable,60.65714286
+London,Restaurant bookings,03/11/2020,-10.47,89.53,OpenTable,66.95714286
+London,Restaurant bookings,04/11/2020,4.89,104.89,OpenTable,74.60571429
+London,Restaurant bookings,05/11/2020,-98.73,1.27,OpenTable,67.34428571
+London,Restaurant bookings,06/11/2020,-98.78,1.22,OpenTable,59.21714286
+London,Restaurant bookings,07/11/2020,-97.07,2.93,OpenTable,50.24428571
+London,Restaurant bookings,08/11/2020,-99.15,0.85,OpenTable,38.73571429
+London,Restaurant bookings,09/11/2020,-99.87,0.13,OpenTable,28.68857143
+London,Restaurant bookings,10/11/2020,-99.4,0.6,OpenTable,15.98428571
+London,Restaurant bookings,11/11/2020,-99.59,0.41,OpenTable,1.058571429
+London,Restaurant bookings,12/11/2020,-99.3,0.7,OpenTable,0.977142857
+London,Restaurant bookings,13/11/2020,-99.34,0.66,OpenTable,0.897142857
+London,Restaurant bookings,14/11/2020,-98.69,1.31,OpenTable,0.665714286
+London,Restaurant bookings,15/11/2020,-99.37,0.63,OpenTable,0.634285714
+London,Restaurant bookings,16/11/2020,-99.79,0.21,OpenTable,0.645714286
+London,Restaurant bookings,17/11/2020,-99.83,0.17,OpenTable,0.584285714
+London,Restaurant bookings,18/11/2020,-99.71,0.29,OpenTable,0.567142857
+London,Restaurant bookings,19/11/2020,-99.57,0.43,OpenTable,0.528571429
+London,Restaurant bookings,20/11/2020,-99.67,0.33,OpenTable,0.481428571
+London,Restaurant bookings,21/11/2020,-98.95,1.05,OpenTable,0.444285714
+London,Restaurant bookings,22/11/2020,-99.72,0.28,OpenTable,0.394285714
+London,Restaurant bookings,23/11/2020,-99.95,0.05,OpenTable,0.371428571
+London,Restaurant bookings,24/11/2020,-99.97,0.03,OpenTable,0.351428571
+London,Restaurant bookings,25/11/2020,-99.79,0.21,OpenTable,0.34
+London,Restaurant bookings,26/11/2020,-99.83,0.17,OpenTable,0.302857143
+London,Restaurant bookings,27/11/2020,-99.84,0.16,OpenTable,0.278571429
+London,Restaurant bookings,28/11/2020,-99.49,0.51,OpenTable,0.201428571
+London,Restaurant bookings,29/11/2020,-99.97,0.03,OpenTable,0.165714286
+London,Restaurant bookings,30/11/2020,-99.94,0.06,OpenTable,0.167142857
+London,Restaurant bookings,01/12/2020,-99.81,0.19,OpenTable,0.19
+London,Restaurant bookings,02/12/2020,-69.03,30.97,OpenTable,4.584285714
+London,Restaurant bookings,03/12/2020,-62.39,37.61,OpenTable,9.932857143
+London,Restaurant bookings,04/12/2020,-46.72,53.28,OpenTable,17.52142857
+London,Restaurant bookings,05/12/2020,-30.21,69.79,OpenTable,27.41857143
+London,Restaurant bookings,06/12/2020,-35.28,64.72,OpenTable,36.66
+London,Restaurant bookings,07/12/2020,-63.77,36.23,OpenTable,41.82714286
+London,Restaurant bookings,08/12/2020,-62.38,37.62,OpenTable,47.17428571
+London,Restaurant bookings,09/12/2020,-58.35,41.65,OpenTable,48.7
+London,Restaurant bookings,10/12/2020,-52.96,47.04,OpenTable,50.04714286
+London,Restaurant bookings,11/12/2020,-44.84,55.16,OpenTable,50.31571429
+London,Restaurant bookings,12/12/2020,-26.15,73.85,OpenTable,50.89571429
+London,Restaurant bookings,13/12/2020,-34.13,65.87,OpenTable,51.06
+London,Restaurant bookings,14/12/2020,-54.26,45.74,OpenTable,52.41857143
+London,Restaurant bookings,15/12/2020,-30.3,69.7,OpenTable,57.00142857
+London,Restaurant bookings,16/12/2020,-95.46,4.54,OpenTable,51.7
+London,Restaurant bookings,17/12/2020,-95.35,4.65,OpenTable,45.64428571
+London,Restaurant bookings,18/12/2020,-93.83,6.17,OpenTable,38.64571429
+London,Restaurant bookings,19/12/2020,-93.8,6.2,OpenTable,28.98142857
+London,Restaurant bookings,20/12/2020,-96.24,3.76,OpenTable,20.10857143
+London,Restaurant bookings,21/12/2020,-98.78,1.22,OpenTable,13.74857143
+London,Restaurant bookings,22/12/2020,-97.91,2.09,OpenTable,4.09
+London,Restaurant bookings,23/12/2020,-95.34,4.66,OpenTable,4.107142857
+London,Restaurant bookings,24/12/2020,-89.46,10.54,OpenTable,4.948571429
+London,Restaurant bookings,25/12/2020,-98.92,1.08,OpenTable,4.221428571
+London,Restaurant bookings,26/12/2020,-99.13,0.87,OpenTable,3.46
+London,Restaurant bookings,27/12/2020,-98.42,1.58,OpenTable,3.148571429
+London,Restaurant bookings,28/12/2020,-99.18,0.82,OpenTable,3.091428571
+London,Restaurant bookings,29/12/2020,-99.44,0.56,OpenTable,2.872857143
+London,Restaurant bookings,30/12/2020,-98.45,1.55,OpenTable,2.428571429
+London,Restaurant bookings,31/12/2020,-92.39,7.61,OpenTable,2.01
+London,Restaurant bookings,01/01/2021,-99.31,0.69,OpenTable,1.954285714
+London,Restaurant bookings,02/01/2021,-99.12,0.88,OpenTable,1.955714286
+London,Restaurant bookings,03/01/2021,-99.55,0.45,OpenTable,1.794285714
+London,Restaurant bookings,04/01/2021,-99.77,0.23,OpenTable,1.71
+London,Restaurant bookings,05/01/2021,-99.74,0.26,OpenTable,1.667142857
+London,Restaurant bookings,06/01/2021,-99.9,0.1,OpenTable,1.46
+London,Restaurant bookings,07/01/2021,-99.83,0.17,OpenTable,0.397142857
+London,Restaurant bookings,08/01/2021,-99.85,0.15,OpenTable,0.32
+London,Restaurant bookings,09/01/2021,-99.5,0.5,OpenTable,0.265714286
+London,Restaurant bookings,10/01/2021,-99.87,0.13,OpenTable,0.22
+London,Restaurant bookings,11/01/2021,-99.92,0.08,OpenTable,0.198571429
+London,Restaurant bookings,12/01/2021,-99.94,0.06,OpenTable,0.17
+London,Restaurant bookings,13/01/2021,-99.92,0.08,OpenTable,0.167142857
+London,Restaurant bookings,14/01/2021,-99.86,0.14,OpenTable,0.162857143
+London,Restaurant bookings,15/01/2021,-99.86,0.14,OpenTable,0.161428571
+London,Restaurant bookings,16/01/2021,-99.71,0.29,OpenTable,0.131428571
+London,Restaurant bookings,17/01/2021,-99.95,0.05,OpenTable,0.12
+London,Restaurant bookings,18/01/2021,-99.99,0.01,OpenTable,0.11
+London,Restaurant bookings,19/01/2021,-99.99,0.01,OpenTable,0.102857143
+London,Restaurant bookings,20/01/2021,-99.97,0.03,OpenTable,0.095714286
+London,Restaurant bookings,21/01/2021,-99.95,0.05,OpenTable,0.082857143
+London,Restaurant bookings,22/01/2021,-99.99,0.01,OpenTable,0.064285714
+London,Restaurant bookings,23/01/2021,-99.93,0.07,OpenTable,0.032857143
+London,Restaurant bookings,24/01/2021,-99.99,0.01,OpenTable,0.027142857
+London,Restaurant bookings,25/01/2021,-99.98,0.02,OpenTable,0.028571429
+London,Restaurant bookings,26/01/2021,-99.99,0.01,OpenTable,0.028571429
+London,Restaurant bookings,27/01/2021,-99.99,0.01,OpenTable,0.025714286
+London,Restaurant bookings,28/01/2021,-99.96,0.04,OpenTable,0.024285714
+London,Restaurant bookings,29/01/2021,-99.98,0.02,OpenTable,0.025714286
+London,Restaurant bookings,30/01/2021,-99.88,0.12,OpenTable,0.032857143
+London,Restaurant bookings,31/01/2021,-100,0,OpenTable,0.031428571
+London,Restaurant bookings,01/02/2021,-99.99,0.01,OpenTable,0.03
+London,Restaurant bookings,02/02/2021,-99.96,0.04,OpenTable,0.034285714
+London,Restaurant bookings,03/02/2021,-99.98,0.02,OpenTable,0.035714286
+London,Restaurant bookings,04/02/2021,-99.98,0.02,OpenTable,0.032857143
+London,Restaurant bookings,05/02/2021,-99.98,0.02,OpenTable,0.032857143
+London,Restaurant bookings,06/02/2021,-99.89,0.11,OpenTable,0.031428571
+London,Restaurant bookings,07/02/2021,-99.97,0.03,OpenTable,0.035714286
+London,Restaurant bookings,08/02/2021,-99.98,0.02,OpenTable,0.037142857
+London,Restaurant bookings,09/02/2021,-99.98,0.02,OpenTable,0.034285714
+London,Restaurant bookings,10/02/2021,-99.94,0.06,OpenTable,0.04
+London,Restaurant bookings,11/02/2021,-99.91,0.09,OpenTable,0.05
+London,Restaurant bookings,12/02/2021,-99.94,0.06,OpenTable,0.055714286
+London,Restaurant bookings,13/02/2021,-99.89,0.11,OpenTable,0.055714286
+London,Restaurant bookings,14/02/2021,-99.96,0.04,OpenTable,0.057142857
+London,Restaurant bookings,15/02/2021,-99.98,0.02,OpenTable,0.057142857
+London,Restaurant bookings,16/02/2021,-99.96,0.04,OpenTable,0.06
+London,Restaurant bookings,17/02/2021,-99.98,0.02,OpenTable,0.054285714
+London,Restaurant bookings,18/02/2021,-99.99,0.01,OpenTable,0.042857143
+London,Restaurant bookings,19/02/2021,-99.96,0.04,OpenTable,0.04
+London,Restaurant bookings,20/02/2021,-99.95,0.05,OpenTable,0.031428571
+London,Restaurant bookings,21/02/2021,-100,0,OpenTable,0.025714286
+London,Restaurant bookings,22/02/2021,-100,0,OpenTable,0.022857143
+London,Restaurant bookings,23/02/2021,-99.95,0.05,OpenTable,0.024285714
+London,Restaurant bookings,24/02/2021,-100,0,OpenTable,0.021428571
+London,Restaurant bookings,25/02/2021,-99.99,0.01,OpenTable,0.021428571
+London,Restaurant bookings,26/02/2021,-99.92,0.08,OpenTable,0.027142857
+London,Restaurant bookings,27/02/2021,-99.97,0.03,OpenTable,0.024285714
+London,Restaurant bookings,28/02/2021,-100,0,OpenTable,0.024285714
+London,Restaurant bookings,01/03/2021,-100,0,OpenTable,0.024285714
+London,Restaurant bookings,02/03/2021,-100,0,OpenTable,0.017142857
+London,Restaurant bookings,03/03/2021,-99.97,0.03,OpenTable,0.021428571
+London,Restaurant bookings,04/03/2021,-99.99,0.01,OpenTable,0.021428571
+London,Restaurant bookings,05/03/2021,-99.98,0.02,OpenTable,0.012857143
+London,Restaurant bookings,06/03/2021,-99.95,0.05,OpenTable,0.015714286
+London,Restaurant bookings,07/03/2021,-100,0,OpenTable,0.015714286
+London,Restaurant bookings,08/03/2021,-100,0,OpenTable,0.015714286
+London,Restaurant bookings,09/03/2021,-99.98,0.02,OpenTable,0.018571429
+London,Restaurant bookings,10/03/2021,-100,0,OpenTable,0.014285714
+London,Restaurant bookings,11/03/2021,-100,0,OpenTable,0.012857143
+London,Restaurant bookings,12/03/2021,-99.99,0.01,OpenTable,0.011428571
+London,Restaurant bookings,13/03/2021,-99.96,0.04,OpenTable,0.01
+London,Restaurant bookings,14/03/2021,-99.99,0.01,OpenTable,0.011428571
+London,Restaurant bookings,15/03/2021,-99.99,0.01,OpenTable,0.012857143
+London,Restaurant bookings,16/03/2021,-99.99,0.01,OpenTable,0.011428571
+London,Restaurant bookings,17/03/2021,-99.97,0.03,OpenTable,0.015714286
+London,Restaurant bookings,18/03/2021,-99.99,0.01,OpenTable,0.017142857
+London,Restaurant bookings,19/03/2021,-99.97,0.03,OpenTable,0.02
+London,Restaurant bookings,20/03/2021,-99.98,0.02,OpenTable,0.017142857
+London,Restaurant bookings,21/03/2021,-99.97,0.03,OpenTable,0.02
+London,Restaurant bookings,22/03/2021,-100,0,OpenTable,0.018571429
+London,Restaurant bookings,23/03/2021,-99.99,0.01,OpenTable,0.018571429
+London,Restaurant bookings,24/03/2021,-100,0,OpenTable,0.014285714
+London,Restaurant bookings,25/03/2021,-100,0,OpenTable,0.012857143
+London,Restaurant bookings,26/03/2021,-99.99,0.01,OpenTable,0.01
+London,Restaurant bookings,27/03/2021,-99.97,0.03,OpenTable,0.011428571
+London,Restaurant bookings,28/03/2021,-100,0,OpenTable,0.007142857
+London,Restaurant bookings,29/03/2021,-99.99,0.01,OpenTable,0.008571429
+London,Restaurant bookings,30/03/2021,-100,0,OpenTable,0.007142857
+London,Restaurant bookings,31/03/2021,-99.99,0.01,OpenTable,0.008571429
+London,Restaurant bookings,01/04/2021,-100,0,OpenTable,0.008571429
+London,Restaurant bookings,02/04/2021,-100,0,OpenTable,0.007142857
+London,Restaurant bookings,03/04/2021,-99.98,0.02,OpenTable,0.005714286
+London,Restaurant bookings,04/04/2021,-100,0,OpenTable,0.005714286
+London,Restaurant bookings,05/04/2021,-100,0,OpenTable,0.004285714
+London,Restaurant bookings,06/04/2021,-100,0,OpenTable,0.004285714
+London,Restaurant bookings,07/04/2021,-100,0,OpenTable,0.002857143
+London,Restaurant bookings,08/04/2021,-99.98,0.02,OpenTable,0.005714286
+London,Restaurant bookings,09/04/2021,-99.92,0.08,OpenTable,0.017142857
+London,Restaurant bookings,10/04/2021,-99.98,0.02,OpenTable,0.017142857
+London,Restaurant bookings,11/04/2021,-99.92,0.08,OpenTable,0.028571429
+London,Restaurant bookings,12/04/2021,-52.64,47.36,OpenTable,6.794285714
+London,Restaurant bookings,13/04/2021,-64.24,35.76,OpenTable,11.90285714
+London,Restaurant bookings,14/04/2021,-65.96,34.04,OpenTable,16.76571429
+London,Restaurant bookings,15/04/2021,-66.21,33.79,OpenTable,21.59
+London,Restaurant bookings,16/04/2021,-53.63,46.37,OpenTable,28.20285714
+London,Restaurant bookings,17/04/2021,-55.65,44.35,OpenTable,34.53571429
+London,Restaurant bookings,18/04/2021,-49.54,50.46,OpenTable,41.73285714
+London,Restaurant bookings,19/04/2021,-61.64,38.36,OpenTable,40.44714286
+London,Restaurant bookings,20/04/2021,-49.05,50.95,OpenTable,42.61714286
+London,Restaurant bookings,21/04/2021,-57.86,42.14,OpenTable,43.77428571
+London,Restaurant bookings,22/04/2021,-58.75,41.25,OpenTable,44.84
+London,Restaurant bookings,23/04/2021,-60.07,39.93,OpenTable,43.92
+London,Restaurant bookings,24/04/2021,-59.06,40.94,OpenTable,43.43285714
+London,Restaurant bookings,25/04/2021,-56.2,43.8,OpenTable,42.48142857
+London,Restaurant bookings,26/04/2021,-69.72,30.28,OpenTable,41.32714286
+London,Restaurant bookings,27/04/2021,-64.83,35.17,OpenTable,39.07285714
+London,Restaurant bookings,28/04/2021,-70.44,29.56,OpenTable,37.27571429
+London,Restaurant bookings,29/04/2021,-63.28,36.72,OpenTable,36.62857143
+London,Restaurant bookings,30/04/2021,-58.5,41.5,OpenTable,36.85285714
+London,Restaurant bookings,01/05/2021,-56.61,43.39,OpenTable,37.20285714
+London,Restaurant bookings,02/05/2021,-49.87,50.13,OpenTable,38.10714286
+London,Restaurant bookings,03/05/2021,-54.67,45.33,OpenTable,40.25714286
+London,Restaurant bookings,04/05/2021,-71.99,28.01,OpenTable,39.23428571
+London,Restaurant bookings,05/05/2021,-69.49,30.51,OpenTable,39.37
+London,Restaurant bookings,06/05/2021,-63.77,36.23,OpenTable,39.3
+London,Restaurant bookings,07/05/2021,-59.04,40.96,OpenTable,39.22285714
+London,Restaurant bookings,08/05/2021,-64.49,35.51,OpenTable,38.09714286
+London,Restaurant bookings,09/05/2021,-45.31,54.69,OpenTable,38.74857143
+London,Restaurant bookings,10/05/2021,-68.59,31.41,OpenTable,36.76
+London,Restaurant bookings,11/05/2021,-66.58,33.42,OpenTable,37.53285714
+London,Restaurant bookings,12/05/2021,-63.44,36.56,OpenTable,38.39714286
+London,Restaurant bookings,13/05/2021,-65.96,34.04,OpenTable,38.08428571
+London,Restaurant bookings,14/05/2021,-60.09,39.91,OpenTable,37.93428571
+London,Restaurant bookings,15/05/2021,-60.16,39.84,OpenTable,38.55285714
+London,Restaurant bookings,16/05/2021,-61.85,38.15,OpenTable,36.19
+London,Restaurant bookings,17/05/2021,-22.48,77.52,OpenTable,42.77714286
+London,Restaurant bookings,18/05/2021,-34.26,65.74,OpenTable,47.39428571
+London,Restaurant bookings,19/05/2021,-26.25,73.75,OpenTable,52.70714286
+London,Restaurant bookings,20/05/2021,-17.64,82.36,OpenTable,59.61
+London,Restaurant bookings,21/05/2021,-2.76,97.24,OpenTable,67.8
+London,Restaurant bookings,22/05/2021,23.45,123.45,OpenTable,79.74428571
+London,Restaurant bookings,23/05/2021,-5.3,94.7,OpenTable,87.82285714
+London,Restaurant bookings,24/05/2021,-47.61,52.39,OpenTable,84.23285714
+London,Restaurant bookings,25/05/2021,-22.2,77.8,OpenTable,85.95571429
+London,Restaurant bookings,26/05/2021,-19.96,80.04,OpenTable,86.85428571
+London,Restaurant bookings,27/05/2021,-14.67,85.33,OpenTable,87.27857143
+London,Restaurant bookings,28/05/2021,-9.53,90.47,OpenTable,86.31142857
+London,Restaurant bookings,29/05/2021,22.24,122.24,OpenTable,86.13857143
+London,Restaurant bookings,30/05/2021,45.22,145.22,OpenTable,93.35571429
+London,Restaurant bookings,31/05/2021,35.66,135.66,OpenTable,105.2514286
+London,Restaurant bookings,01/06/2021,-25.84,74.16,OpenTable,104.7314286
+London,Restaurant bookings,02/06/2021,-19.9,80.1,OpenTable,104.74
+London,Restaurant bookings,03/06/2021,-19.91,80.09,OpenTable,103.9914286
+London,Restaurant bookings,04/06/2021,-15.1,84.9,OpenTable,103.1957143
+London,Restaurant bookings,05/06/2021,1.07,101.07,OpenTable,100.1714286
+London,Restaurant bookings,06/06/2021,-12.25,87.75,OpenTable,91.96142857
+London,Restaurant bookings,07/06/2021,-42.69,57.31,OpenTable,80.76857143
+London,Restaurant bookings,08/06/2021,-37.18,62.82,OpenTable,79.14857143
+London,Restaurant bookings,09/06/2021,-30.03,69.97,OpenTable,77.70142857
+London,Restaurant bookings,10/06/2021,-25.93,74.07,OpenTable,76.84142857
+London,Restaurant bookings,11/06/2021,-17.63,82.37,OpenTable,76.48
+London,Restaurant bookings,12/06/2021,-4.45,95.55,OpenTable,75.69142857
+London,Restaurant bookings,13/06/2021,-35.67,64.33,OpenTable,72.34571429
+London,Restaurant bookings,14/06/2021,-50.12,49.88,OpenTable,71.28428571
+London,Restaurant bookings,15/06/2021,-39.92,60.08,OpenTable,70.89285714
+London,Restaurant bookings,16/06/2021,-33.95,66.05,OpenTable,70.33285714
+London,Restaurant bookings,17/06/2021,-33.15,66.85,OpenTable,69.30142857
+London,Restaurant bookings,18/06/2021,-26.53,73.47,OpenTable,68.03
+London,Restaurant bookings,19/06/2021,-3.75,96.25,OpenTable,68.13
+London,Restaurant bookings,20/06/2021,11.09,111.09,OpenTable,74.81
+London,Restaurant bookings,21/06/2021,-51.2,48.8,OpenTable,74.65571429
+London,Restaurant bookings,22/06/2021,-42.73,57.27,OpenTable,74.25428571
+London,Restaurant bookings,23/06/2021,-34.14,65.86,OpenTable,74.22714286
+London,Restaurant bookings,24/06/2021,-29.96,70.04,OpenTable,74.68285714
+London,Restaurant bookings,25/06/2021,-16.72,83.28,OpenTable,76.08428571
+London,Restaurant bookings,26/06/2021,5.42,105.42,OpenTable,77.39428571
+London,Restaurant bookings,27/06/2021,-15.27,84.73,OpenTable,73.62857143
+London,Restaurant bookings,28/06/2021,-52.53,47.47,OpenTable,73.43857143
+London,Restaurant bookings,29/06/2021,-44.91,55.09,OpenTable,73.12714286
+London,Restaurant bookings,30/06/2021,-35.35,64.65,OpenTable,72.95428571
+London,Restaurant bookings,01/07/2021,-30.19,69.81,OpenTable,72.92142857
+London,Restaurant bookings,02/07/2021,-18.84,81.16,OpenTable,72.61857143
+London,Restaurant bookings,03/07/2021,-7.58,92.42,OpenTable,70.76142857
+London,Restaurant bookings,04/07/2021,-16.43,83.57,OpenTable,70.59571429
+London,Restaurant bookings,05/07/2021,-49.57,50.43,OpenTable,71.01857143
+London,Restaurant bookings,06/07/2021,-45.81,54.19,OpenTable,70.89
+London,Restaurant bookings,07/07/2021,-44.33,55.67,OpenTable,69.60714286
+London,Restaurant bookings,08/07/2021,-33.65,66.35,OpenTable,69.11285714
+London,Restaurant bookings,09/07/2021,-19.67,80.33,OpenTable,68.99428571
+London,Restaurant bookings,10/07/2021,-4.47,95.53,OpenTable,69.43857143
+London,Restaurant bookings,11/07/2021,-12.12,87.88,OpenTable,70.05428571
+London,Restaurant bookings,12/07/2021,-55.64,44.36,OpenTable,69.18714286
+London,Restaurant bookings,13/07/2021,-46.31,53.69,OpenTable,69.11571429
+London,Restaurant bookings,14/07/2021,-38.22,61.78,OpenTable,69.98857143
+London,Restaurant bookings,15/07/2021,-33.86,66.14,OpenTable,69.95857143
+London,Restaurant bookings,16/07/2021,-20.46,79.54,OpenTable,69.84571429
+London,Restaurant bookings,17/07/2021,-7.56,92.44,OpenTable,69.40428571
+London,Restaurant bookings,18/07/2021,-19.95,80.05,OpenTable,68.28571429
+London,Restaurant bookings,19/07/2021,-49.44,50.56,OpenTable,69.17142857
+London,Restaurant bookings,20/07/2021,-40.6,59.4,OpenTable,69.98714286
+London,Restaurant bookings,21/07/2021,-36.16,63.84,OpenTable,70.28142857
+London,Restaurant bookings,22/07/2021,-30.22,69.78,OpenTable,70.80142857
+London,Restaurant bookings,23/07/2021,-22.3,77.7,OpenTable,70.53857143
+London,Restaurant bookings,24/07/2021,-12.68,87.32,OpenTable,69.80714286
+London,Restaurant bookings,25/07/2021,-23.09,76.91,OpenTable,69.35857143
+London,Restaurant bookings,26/07/2021,-43.42,56.58,OpenTable,70.21857143
+London,Restaurant bookings,27/07/2021,-34.76,65.24,OpenTable,71.05285714
+London,Restaurant bookings,28/07/2021,-33.69,66.31,OpenTable,71.40571429
+London,Restaurant bookings,29/07/2021,-21.88,78.12,OpenTable,72.59714286
+London,Restaurant bookings,30/07/2021,-18.2,81.8,OpenTable,73.18285714
+London,Restaurant bookings,31/07/2021,-3.32,96.68,OpenTable,74.52
+London,Restaurant bookings,01/08/2021,-10.5,89.5,OpenTable,76.31857143
+London,Restaurant bookings,02/08/2021,-39.58,60.42,OpenTable,76.86714286
+London,Restaurant bookings,03/08/2021,-36.68,63.32,OpenTable,76.59285714
+London,Restaurant bookings,04/08/2021,-26.82,73.18,OpenTable,77.57428571
+London,Restaurant bookings,05/08/2021,-28.34,71.66,OpenTable,76.65142857
+London,Restaurant bookings,06/08/2021,-17.44,82.56,OpenTable,76.76
+London,Restaurant bookings,07/08/2021,-5.75,94.25,OpenTable,76.41285714
+London,Restaurant bookings,08/08/2021,-15.64,84.36,OpenTable,75.67857143
+London,Restaurant bookings,09/08/2021,-39.11,60.89,OpenTable,75.74571429
+London,Restaurant bookings,10/08/2021,-28.66,71.34,OpenTable,76.89142857
+London,Restaurant bookings,11/08/2021,-22.24,77.76,OpenTable,77.54571429
+London,Restaurant bookings,12/08/2021,-22.45,77.55,OpenTable,78.38714286
+London,Restaurant bookings,13/08/2021,-17.09,82.91,OpenTable,78.43714286
+London,Restaurant bookings,14/08/2021,-2.98,97.02,OpenTable,78.83285714
+London,Restaurant bookings,15/08/2021,-8.02,91.98,OpenTable,79.92142857
+London,Restaurant bookings,16/08/2021,-31.62,68.38,OpenTable,80.99142857
+London,Restaurant bookings,17/08/2021,-28.12,71.88,OpenTable,81.06857143
+London,Restaurant bookings,18/08/2021,-19.6,80.4,OpenTable,81.44571429
+London,Restaurant bookings,19/08/2021,-15.92,84.08,OpenTable,82.37857143
+London,Restaurant bookings,20/08/2021,-6.7,93.3,OpenTable,83.86285714
+London,Restaurant bookings,21/08/2021,13.4,113.4,OpenTable,86.20285714
+London,Restaurant bookings,22/08/2021,-3.18,96.82,OpenTable,86.89428571
+London,Restaurant bookings,23/08/2021,-27.09,72.91,OpenTable,87.54142857
+London,Restaurant bookings,24/08/2021,-5.91,94.09,OpenTable,90.71428571
+London,Restaurant bookings,25/08/2021,-8.61,91.39,OpenTable,92.28428571
+London,Restaurant bookings,26/08/2021,-14.32,85.68,OpenTable,92.51285714
+London,Restaurant bookings,27/08/2021,-13.88,86.12,OpenTable,91.48714286
+London,Restaurant bookings,28/08/2021,-2.04,97.96,OpenTable,89.28142857
+London,Restaurant bookings,29/08/2021,14.21,114.21,OpenTable,91.76571429
+London,Restaurant bookings,30/08/2021,10.66,110.66,OpenTable,97.15857143
+London,Restaurant bookings,31/08/2021,-31.62,68.38,OpenTable,93.48571429
+London,Restaurant bookings,01/09/2021,-24.52,75.48,OpenTable,91.21285714
+London,Restaurant bookings,02/09/2021,-21.04,78.96,OpenTable,90.25285714
+London,Restaurant bookings,03/09/2021,-16.88,83.12,OpenTable,89.82428571
+London,Restaurant bookings,04/09/2021,-3.22,96.78,OpenTable,89.65571429
+London,Restaurant bookings,05/09/2021,-1.9,98.1,OpenTable,87.35428571
+London,Restaurant bookings,06/09/2021,-31.66,68.34,OpenTable,81.30857143
+London,Restaurant bookings,07/09/2021,-27.16,72.84,OpenTable,81.94571429
+London,Restaurant bookings,08/09/2021,-20.04,79.96,OpenTable,82.58571429
+London,Restaurant bookings,09/09/2021,-22.14,77.86,OpenTable,82.42857143
+London,Restaurant bookings,10/09/2021,-19.51,80.49,OpenTable,82.05285714
+London,Restaurant bookings,11/09/2021,-3.48,96.52,OpenTable,82.01571429
+London,Restaurant bookings,12/09/2021,-8.41,91.59,OpenTable,81.08571429
+London,Restaurant bookings,13/09/2021,-34.59,65.41,OpenTable,80.66714286
+London,Restaurant bookings,14/09/2021,-31.33,68.67,OpenTable,80.07142857
+London,Restaurant bookings,15/09/2021,-21.14,78.86,OpenTable,79.91428571
+London,Restaurant bookings,16/09/2021,-19.36,80.64,OpenTable,80.31142857
+London,Restaurant bookings,17/09/2021,-16.31,83.69,OpenTable,80.76857143
+London,Restaurant bookings,18/09/2021,-2.48,97.52,OpenTable,80.91142857
+London,Restaurant bookings,19/09/2021,-5.82,94.18,OpenTable,81.28142857
+London,Restaurant bookings,20/09/2021,-27.9,72.1,OpenTable,82.23714286
+London,Restaurant bookings,21/09/2021,-16.66,83.34,OpenTable,84.33285714
+London,Restaurant bookings,22/09/2021,-15.88,84.12,OpenTable,85.08428571
