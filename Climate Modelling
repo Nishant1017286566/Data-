@@ -1,1 +1,71 @@
 
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.gaussian_process import GaussianProcessRegressor
+from sklearn.gaussian_process.kernels import RBF, ConstantKernel as C
+
+# Generate expanded dataset
+np.random.seed(42)  # For reproducibility
+CO2_levels = np.array([280, 300, 320, 340, 360, 380, 400])  # Original CO2 levels
+CO2_levels_expanded = np.linspace(min(CO2_levels), max(CO2_levels), 100)  # Expanded CO2 levels
+temperature_increase = np.array([0.0, 0.2, 0.4, 0.6, 0.8, 1.0, 1.2])  # Original temperature increases
+# Simulating temperature increases for expanded CO2 levels with some random variation
+temperature_increase_expanded = temperature_increase[-1] * (CO2_levels_expanded / max(CO2_levels_expanded)) + np.random.normal(0, 0.05, 100)
+
+def model(sensitivity, CO2_levels_expanded):
+    return sensitivity * CO2_levels_expanded
+
+# Metropolis-Hastings algorithm for parameter estimation
+def metropolis_hastings(data, model, initial_guess, iterations):
+    current_guess = initial_guess
+    accepted = []
+    for _ in range(iterations):
+        new_guess = np.random.normal(current_guess, 0.1)  # Propose a new guess
+        # Calculate likelihoods
+        current_likelihood = np.sum((data - model(current_guess, CO2_levels))**2)
+        new_likelihood = np.sum((data - model(new_guess, CO2_levels))**2)
+        # Acceptance probability
+        if new_likelihood < current_likelihood:
+            current_guess = new_guess
+            accepted.append(current_guess)
+        elif np.random.rand() < np.exp(current_likelihood - new_likelihood):
+            current_guess = new_guess
+            accepted.append(current_guess)
+    
+    return accepted
+
+# Run the Metropolis-Hastings algorithm
+sensitivity_guesses = metropolis_hastings(temperature_increase, model, 0.003, 5000)
+
+# Plotting the results
+plt.hist(sensitivity_guesses, bins=30, density=True)
+plt.xlabel('Estimated Sensitivity (°C increase per ppm CO2)')
+plt.ylabel('Frequency')
+plt.title('Parameter Estimation using Metropolis-Hastings')
+plt.show()
+
+# Enhanced code with additional plots
+
+# Function to calculate the model predictions
+def model_predictions(sensitivity, CO2_levels):
+    return model(sensitivity, CO2_levels)
+
+# Calculate the median of the estimated sensitivities for model prediction
+median_sensitivity = np.median(sensitivity_guesses)
+
+# Model predictions using the median estimated sensitivity
+predicted_temperatures = model_predictions(median_sensitivity, CO2_levels)
+
+# Plotting the results
+
+# Plot 1: Evolution of the Sensitivity Parameter Estimation
+plt.figure(figsize=(15, 6))
+
+plt.subplot(1, 2, 1)
+plt.plot(sensitivity_guesses, color='blue', alpha=0.7)
+plt.xlabel('Iteration')
+plt.ylabel('Estimated Sensitivity (°C per ppm CO2)')
+plt.title('Evolution of Sensitivity Parameter Estimation')
